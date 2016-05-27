@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+
+public class MaximumSpreadEvaluator {
+
+	public void compute( ArrayList<double[]> fin, ArrayList<double[]> init, double minPenalty, double minRobustness, double maxPenalty, double maxRobustness) {
+		
+		
+		total+= Math.pow(((point[0]- minPenalty) / (maxPenalty - minPenalty)), 2);
+		total+= Math.pow(((point[1]- minRobustness) / (maxRobustness - minRobustness)), 2);
+		
+		return 0;
+	}
+	
+
+}

@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+
+public class MaximumSpreadEvaluator {
+
+	public double compute( ArrayList<double[]> points, double minPenalty, double minRobustness, double maxPenalty, double maxRobustness) {
+		// normalized euclidean distance is being computed:
+		
+		double Pdistance= Math.pow((getMaxP(points) - getMinP(points)) / (maxPenalty - ) ,2);
+		
+				
+		
+		total+= Math.pow(((point[1]- minRobustness) / (maxRobustness - minRobustness)), 2);
+		
+		return 0;
+	}
+
+	private double getMaxP(ArrayList<double[]> points) {
+		double maxP= points.get(0)[0];
+		for (double[] d: points)
+			if (d[0] > maxP)
+				maxP= d[0];
+		return maxP;
+	}
+	
+	private double getMinP(ArrayList<double[]> points) {
+		double minP= points.get(0)[0];
+		for (double[] d: points)
+			if (d[0] < maxP)
+				minP= d[0];
+		return minP;
+	}
+	
+	
+
+}

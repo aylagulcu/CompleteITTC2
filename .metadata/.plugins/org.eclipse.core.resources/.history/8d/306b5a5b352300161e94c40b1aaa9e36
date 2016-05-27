@@ -1,0 +1,110 @@
+import java.util.ArrayList;
+
+public class EuclideanDistanceEvaluator {
+	
+	ArrayList<Double> initialPointsDistances; // the minimum distance from the points agg is found
+	ArrayList<Double> finalPointsDistances; // the minimum distance from the points agg is found
+	final double INFINITY= 5000;
+	
+	double minPAllRuns, minRAllRuns;
+	boolean normalize= true;
+
+	public void compute(ArrayList<double[]> agg, ArrayList<double[]> init, ArrayList<double[]> fin) {
+		// find the minimum distace of each point in init from the agg.
+		
+
+	}
+	
+}
+	
+//	public void compute( ArrayList<double[]> fin, ArrayList<double[]> init, double minPenalty, double minRobustness, double maxPenalty, double maxRobustness) {
+//		initialPointsDistances= new ArrayList<Double>();
+//		finalPointsDistances= new ArrayList<Double>();
+//		
+//		double total= 0;
+//		for (double[] point: init){
+//			total= 0;
+//			if (normalize){
+//				total+= Math.pow(((point[0]- minPenalty) / (maxPenalty - minPenalty)), 2);
+//				total+= Math.pow(((point[1]- minRobustness) / (maxRobustness - minRobustness)), 2);
+//			}
+//			else{
+//				total+= Math.pow((point[0]- minPenalty), 2);
+//				total+= Math.pow((point[1]- minRobustness), 2);
+//			}
+//			initialPointsDistances.add(Math.sqrt(total));
+//		} // end for each
+//		
+//		for (double[] point: fin){
+//			total= 0;
+//			if (normalize){
+//				total+= Math.pow(((point[0]- minPenalty) / (maxPenalty - minPenalty)), 2);
+//				total+= Math.pow(((point[1]- minRobustness) / (maxRobustness - minRobustness)), 2);
+//			}
+//			else{
+//				total+= Math.pow((point[0]- minPenalty), 2);
+//				total+= Math.pow((point[1]- minRobustness), 2);
+//			}
+//			finalPointsDistances.add(Math.sqrt(total));
+//		} // end for each
+//		
+//	}
+//
+//	public double getInitialMinDistance() {
+//		if (initialPointsDistances.size()== 0)
+//			return INFINITY;
+//		double minDistance= initialPointsDistances.get(0);
+//		for (double d: initialPointsDistances)
+//			if (d< minDistance)
+//				minDistance= d;
+//			
+//		return minDistance;
+//	}
+//
+//	public double getInitialAvgDistance() {
+//		if (initialPointsDistances.size()== 0)
+//			return INFINITY;
+//		double totalDistance= 0; 
+//		for (double d: initialPointsDistances)
+//			totalDistance+= d;
+//		return (totalDistance / initialPointsDistances.size());
+//	}
+//
+//	public double getFinalMinDistance() {
+//		if (finalPointsDistances.size()== 0)
+//			return INFINITY;
+//		double minDistance= finalPointsDistances.get(0);
+//		for (double d: finalPointsDistances)
+//			if (d< minDistance)
+//				minDistance= d;
+//			
+//		return minDistance;
+//	}
+//
+//	public double getFinalAvgDistance() {
+//		if (finalPointsDistances.size()== 0)
+//			return INFINITY;
+//		double totalDistance= 0; 
+//		for (double d: finalPointsDistances)
+//			totalDistance+= d;
+//		return (totalDistance / finalPointsDistances.size());
+//	}
+//
+//	public double evaluateInitGD() {
+//		if (initialPointsDistances.size()== 0)
+//			return INFINITY;
+//		double total= 0;
+//		for (double d: initialPointsDistances)
+//			total+= (d*d);
+//		return ( Math.sqrt(total) / initialPointsDistances.size());
+//	}
+//
+//	public double evaluateFinalGD() {
+//		if (finalPointsDistances.size()== 0)
+//			return INFINITY;
+//		double total= 0;
+//		for (double d: finalPointsDistances)
+//			total+= (d*d);
+//		return ( Math.sqrt(total) / finalPointsDistances.size());
+//	}
+

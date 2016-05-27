@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="crosser.TimeBasedCX"/>
+<fullyQualifiedTypeName name="robustnessEvaluators.RobustnessEvaluatorBase"/>
+<fullyQualifiedTypeName name="robustnessEvaluators.RobustnessManager"/>
+<fullyQualifiedTypeName name="constraints.InstructorTimeAvailabilityConstraint"/>
+<fullyQualifiedTypeName name="constraints.ConstraintBase"/>
+<fullyQualifiedTypeName name="vnSearchers.SAManager"/>
+<fullyQualifiedTypeName name="vnSearchers.MoveForCurCompNew"/>
+<fullyQualifiedTypeName name="vnSearchers.MoveSwapNew"/>
+<fullyQualifiedTypeName name="data.dataHolder"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="vnSearchers.SAforPR"/>
+<fullyQualifiedTypeName name="ga.PopulationParameters"/>
+<fullyQualifiedTypeName name="constraints.ClashConstraint"/>
+<fullyQualifiedTypeName name="evaluators.PenaltyEvaluator"/>
+<fullyQualifiedTypeName name="util.FileOperations"/>
+<fullyQualifiedTypeName name="util.RandomNumberGenerator"/>
+<fullyQualifiedTypeName name="HVI"/>
+<fullyQualifiedTypeName name="java.awt.datatransfer.StringSelection"/>
+<fullyQualifiedTypeName name="javax.print.DocFlavor"/>
+<fullyQualifiedTypeName name="data.Event"/>
+<fullyQualifiedTypeName name="ga.GlobalVars"/>
+<fullyQualifiedTypeName name="ga.Individual"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSeparatorUI"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthScrollPaneUI"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="data.parameters"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="EpsilonIndicator"/>
+<fullyQualifiedTypeName name="EuclideanDistanceEvaluator"/>
+<fullyQualifiedTypeName name="GenerationalDistanceEvaluator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+<fullyQualifiedTypeName name="SpacingEvaluator"/>
+<fullyQualifiedTypeName name="MaximumSpreadEvaluator"/>
+<fullyQualifiedTypeName name="HVIndicator"/>
+</qualifiedTypeNameHistroy>

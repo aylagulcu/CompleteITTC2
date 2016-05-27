@@ -1,0 +1,27 @@
+How to make jar file:
+* Create a folder with the instance name. e.g.: Instance1
+* In that folder, create a new folder named "ITTC2Simplified". --> This will be the main folder of the program
+* Put "OutputFiles" and "ITC-2007_ctt" folders into that folder.
+* Export the project with only "src" folder to "ITTC2Simplified" folder, give it a name such as: "ittc2.jar"; 
+choose the starting java Class name (starter) and run with the following command!!!
+nohup java -jar ittc2.jar &
+
+
+
+
+source activate oldpython
+
+gcloud compute copy-files agulcu@instance-3:~/jar60.tar.gz ~/Desktop/Experiments/RunOutputs 
+
+	https://cloud.google.com/compute/docs/gcloud-compute/
+
+gcloud compute copy-files ~/Desktop/Experiments/Conf1/Runs21March2016/Instance1.zip agulcu@instance-1:~/
+
+
+ps aux
+
+tar -zcvf jar10.tar.gz jar10
+tar -zxvf jar10.tar.gz 
+
+
+nohup java -jar ittc2conf11.jar &

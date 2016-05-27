@@ -1,0 +1,241 @@
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+
+
+public class Test {
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		
+		/*
+		HVI hvi= new HVI();
+		
+		String fileName= "../InstanceAllRuns/AllRunParetoResults.txt";
+
+		hvi.getAllPoints(fileName);
+		
+		*/
+
+//		double[][] solutionFront= getSolutionFront(hvi.points, instance, run);
+		
+		/*
+		//Read the front from the files
+		double[][] solutionFront = qualityIndicator.utils_.readFront("../InstanceAllRuns/Test.txt");
+
+		
+		for (int inst= 1; inst<= 21; inst++){
+			for (int run= 0; run<30; run++){
+				solutionFront= getSolutionFront(hvi.points, inst, run);
+
+				System.out.println("Instance: "+ inst+"\tRun: "+run+ "\tHVIResult: "+ 0);
+			}
+		}
+	*/
+		
+		
+		// FINAL POP RUN2:
+		double[][] solutionFrontFinal= {
+				{	2525	,	-8554.9342629482	},
+				{	91	,	11.203187251	},
+				{	2525	,	-8554.9342629482	},
+				{	91	,	11.203187251	}	,
+				{	2008	,	-5524.0607569721	},
+				{	275	,	-532.6703187251	}	,
+				{	2356	,	-8279.9342629482	},
+				{	99	,	42.6284860558	}	,
+				{	91	,	11.203187251	}	,
+				{	275	,	-532.6703187251	}	,
+				{	135	,	-56.3715139442	}	,
+				{	143	,	-60.8466135458	}	,
+				{	272	,	-598.2450199203	}	,
+				{	110	,	25.6284860558	}	,
+				{	113	,	23.1533864542	}	,
+				{	120	,	22.1533864542	}	,
+				{	165	,	-39.4711155378	}	,
+				{	135	,	-56.3715139442	}	,
+				{	150	,	-86.5209163347	}	,
+				{	212	,	-206.1683266932	}	,
+				{	99	,	42.6284860558	}	,
+				{	105	,	27.6284860558	}	,
+				{	212	,	-206.1683266932	}	,
+				{	196	,	-114.7201195219	}	,
+				{	275	,	-532.6703187251	}	,
+				{	150	,	-86.5209163347	}	,
+				{	143	,	-60.8466135458	}	,
+				{	165	,	-39.4711155378	}	,
+				{	105	,	27.6284860558	}	,
+				{	196	,	-114.7201195219	}	,
+				{	118	,	21.1533864542	}	,
+				{	113	,	23.1533864542	}	,
+				{	110	,	25.6284860558	}	,
+				{	118	,	21.1533864542	}	,
+				{	135	,	-56.3715139442	}	,
+				{	143	,	-60.8466135458	}	,
+				{	196	,	-114.7201195219	}	,
+				{	91	,	11.203187251	}	,
+				{	150	,	-86.5209163347	}	,
+				{	99	,	42.6284860558	}	
+		};
+
+		for (int i=0; i< solutionFrontFinal.length; i++){
+			for (int j=0; j< solutionFrontFinal[i].length; j++)
+				System.out.print(solutionFrontFinal[i][j]+"\t");
+			System.out.println();
+		}
+		
+		
+		computeHVI(solutionFrontFinal);
+		
+		
+		
+		
+
+	}
+
+	private static void computeHVI(double[][] solutionFront, double maxP, double maxR) {
+		int[] ranks= new int[solutionFront.length];
+		
+		// step1: Compute ranks:
+		// Assign each individual a rank.
+		// Each individual has a penalty and a robustness value. Compare these values...
+		int dCount; // number of solutions dominating the current solution
+		double p1; double r1;
+		double p2; double r2;
+		for (int i= 0; i< solutionFront.length; i++){
+			dCount= 0; // number of solutions dominating i
+			p1= solutionFront[i][0];
+			r1= solutionFront[i][1];
+			
+			// find the number of individuals dominating this individual:
+			for (int j= 0; j< solutionFront.length; j++){
+				if (i==j) continue;
+				p2= solutionFront[j][0];
+				r2= solutionFront[j][1];
+				if (p2<=p1 && r2<=r1){
+					if (p2==p1 && r2==r1)
+						continue; // Both values are equal. Probably, they are the same individuals
+					// at least one objective should be smaller
+					else if (p2<p1 || r2<r1)
+						dCount+= 1; // jth solution dominates ith solution
+				} // end if
+			} // end j for
+			ranks[i]= dCount + 1;
+		} // end i for
+		
+		// step2: now choose only the individuals with rank 1:
+		double[] temp;
+		ArrayList<double[]> rank1Solutions= new ArrayList<double[]>();
+		for (int i=0; i< solutionFront.length; i++){
+			if (ranks[i]== 1){
+				temp= new double[2];
+				temp[0]= solutionFront[i][0];
+				if (temp[0] >= 1000) 
+					continue;
+				temp[1]= solutionFront[i][1];
+				rank1Solutions.add(temp);
+			} // end if
+		} // end i for
+		
+		System.out.println();
+		System.out.println("Now printing the front 1 individuals");
+		for (double[] d: rank1Solutions)
+			System.out.println(d[0]+"\t"+ d[1]);
+		
+		
+		// sort individuals: start from upper left corner; end at the lower right corner:
+		int bestInd= 0;
+		int index= 0;
+		ArrayList<double[]> sortedSolutions= new ArrayList<double[]>();
+		while (index< rank1Solutions.size()){
+			bestInd= 0;
+			for (int i= 1; i< rank1Solutions.size(); i++){
+				if (rank1Solutions.get(i)[1] > rank1Solutions.get(bestInd)[1] ){
+					bestInd= i;
+				} // end if
+			}
+			
+					
+					temp= new double[2];
+					temp[0]= rank1Solutions.get(bestInd)[0];
+					temp[1]= rank1Solutions.get(bestInd)[1];
+					sortedSolutions.add(temp);
+				
+				
+			} // end i for
+			
+			improvedPop.individuals[index]= frontIndividuals.get(bestInd);
+			index+= 1;
+			frontIndividuals.remove(bestInd);
+		}; // end while
+		
+		
+		
+				
+		// sort individuals first acc to their ranks, and then acc to their crowd distance values:
+		// sort individuals in the first pareto front acc to distance
+		int improvedPopSize= newPop.individuals.length;
+		Population improvedPop= new Population(improvedPopSize);
+		
+		ArrayList<Individual> frontIndividuals= new ArrayList<Individual>();
+		int rankIndiv= 1;
+		int index= 0;
+		while (index< improvedPopSize){
+			frontIndividuals.clear();
+			for (int i= 0; i< size; i++){
+				if (mergedPop.individuals[i].rank== rankIndiv){
+					frontIndividuals.add(mergedPop.individuals[i]);
+				}
+					
+			} // end i for
+			// sort the individuals in this rank acc to their distance values only if
+			// there is not enough room to accomodate all of them
+			if (index + frontIndividuals.size()<= improvedPopSize){ 
+				for (Individual ind: frontIndividuals){
+					improvedPop.individuals[index]= ind;
+					index+= 1;
+				} // end for
+			} // end if
+			else{
+				int bestInd= 0;
+				while (index< improvedPopSize){
+					bestInd= 0;
+					for (int i= 1; i< frontIndividuals.size(); i++){
+						if (frontIndividuals.get(i).crowdDistance > frontIndividuals.get(bestInd).crowdDistance)
+							bestInd= i;
+					} // end i for
+					
+					improvedPop.individuals[index]= frontIndividuals.get(bestInd);
+					index+= 1;
+					frontIndividuals.remove(bestInd);
+				}; // end while
+			} // end else
+
+			rankIndiv +=1;
+		}; // end while
+		
+
+		
+		
+		
+	}
+
+	private static double[][] getSolutionFront(List<double[]> points, int inst, int run) {
+		
+		double[][] front= new double[40][2];
+		
+		double[] tempArray;
+		int counter=0;
+		for (int i=0; i< points.size(); i++){
+			tempArray= points.get(i);
+			if (tempArray[0]== inst && tempArray[1]== run){
+				front[counter][0]= tempArray[5]; front[counter][1]= tempArray[6];
+				counter++;
+			} // end if
+		} // end for
+
+		
+		return front;
+	}
+
+}

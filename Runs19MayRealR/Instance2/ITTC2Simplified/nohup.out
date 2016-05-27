@@ -1,0 +1,4024 @@
+Conflict Density (CO): 0.08262537
+Teacher's Availability (TA): 0.76890457
+Room Occupation (RO): 0.7075
+Run: 1 and Seed of the Random Object: 302022406
+Initialization took 43 seconds
+Initial population avg eventP: 3.040459363957597
+Initial bestP: 361
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 361	Average penalty: 787.05
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 361	Average penalty: 731.85
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 56.0 seconds. Best P Value: 95	Average penalty: 724.75
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 56.0 seconds. Best P Value: 95	Average penalty: 735.675
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 95	Average penalty: 785.8
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 95	Average penalty: 816.75
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 55.0 seconds. Best P Value: 81	Average penalty: 797.85
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 81	Average penalty: 623.9
+SAP Count: 4	SAR Count: 5	SAPR Count: 0
+Iteration 9 took 55.0 seconds. Best P Value: 77	Average penalty: 653.5
+SAP Count: 5	SAR Count: 5	SAPR Count: 0
+Iteration 10 took 62.0 seconds. Best P Value: 77	Average penalty: 636.25
+SAP Count: 6	SAR Count: 5	SAPR Count: 0
+Iteration 11 took 56.0 seconds. Best P Value: 77	Average penalty: 665.3
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 54.0 seconds. Best P Value: 77	Average penalty: 679.2
+SAP Count: 7	SAR Count: 6	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 77	Average penalty: 689.875
+SAP Count: 7	SAR Count: 7	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 77	Average penalty: 740.6
+SAP Count: 7	SAR Count: 8	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 77	Average penalty: 715.05
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 77	Average penalty: 767.25
+SAP Count: 8	SAR Count: 9	SAPR Count: 0
+Iteration 17 took 55.0 seconds. Best P Value: 77	Average penalty: 717.525
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 77	Average penalty: 750.5
+SAP Count: 8	SAR Count: 11	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 77	Average penalty: 744.875
+SAP Count: 8	SAR Count: 12	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 77	Average penalty: 658.525
+SAP Count: 8	SAR Count: 13	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 77	Average penalty: 627.175
+SAP Count: 8	SAR Count: 14	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 77	Average penalty: 572.0
+SAP Count: 8	SAR Count: 15	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 77	Average penalty: 577.7
+SAP Count: 9	SAR Count: 15	SAPR Count: 0
+Iteration 24 took 55.0 seconds. Best P Value: 77	Average penalty: 573.025
+SAP Count: 9	SAR Count: 16	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 77	Average penalty: 517.95
+SAP Count: 10	SAR Count: 16	SAPR Count: 0
+Iteration 26 took 55.0 seconds. Best P Value: 77	Average penalty: 551.125
+SAP Count: 11	SAR Count: 16	SAPR Count: 0
+Iteration 27 took 55.0 seconds. Best P Value: 77	Average penalty: 599.975
+SAP Count: 11	SAR Count: 17	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 77	Average penalty: 573.275
+SAP Count: 12	SAR Count: 17	SAPR Count: 0
+Iteration 29 took 55.0 seconds. Best P Value: 77	Average penalty: 607.75
+SAP Count: 12	SAR Count: 18	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 77	Average penalty: 571.525
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.24573965		361	2.12
+1	1	0.22602215		385	1.78
+2	1	0.13725135		370	1.99
+3	1	0.12459664		361	2.12
+4	1	2000.0		77	2.28
+5	1	0.18894577		375	1.98
+6	1	0.200162		386	1.74
+7	1	0.012654701		375	1.98
+8	1	2000.0		1480	1.18
+9	1	0.7962159		472	1.47
+10	1	0.34787792		80	2.17
+11	1	0.30675176		449	1.61
+12	1	0.9820968		1311	1.41
+13	2	0.9811827		1312	1.41
+14	2	0.4025159		387	1.74
+15	2	0.30822203		451	1.61
+16	2	2000.0		1481	1.18
+17	2	0.7959409		475	1.47
+18	2	0.62093115		371	1.99
+19	2	2000.0		79	2.28
+20	2	0.04688108		81	2.24
+21	2	0.4341201		90	2.19
+22	2	0.042783037		81	2.24
+23	3	0.1976601		386	1.78
+24	3	2000.0		1483	1.18
+25	3	0.9974548		1330	1.41
+26	3	0.55929804		376	1.98
+27	3	0.03953202		386	1.78
+28	3	0.8212233		479	1.47
+29	3	0.20931855		388	1.74
+30	3	0.3225164		452	1.61
+31	3	2000.0		91	2.23
+32	3	0.4428366		151	2.19
+33	4	1.0183516		761	1.5
+34	4	1.4477818		1333	1.41
+35	4	0.30454043		668	1.57
+36	4	0.29904854		663	1.59
+37	4	2000.0		1485	1.18
+38	4	2000.0		456	1.61
+39	5	2000.0		683	1.57
+Best Penalty Value: 77
+Best Robustness Value: 1.18
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 54
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 3
+Best Individual So Far penalty: 77
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 402
+MinimumWorkingDaysConstraint violation: 95
+RoomCapacityConstraint violation: 920
+RoomStabilityConstraint violation: 63
+Best Individual So Far robustness: 1522
+Total running time is 756 seconds
+Run: 2 and Seed of the Random Object: -915996449
+Initialization took 28 seconds
+Initial population avg eventP: 2.9430212014134276
+Initial bestP: 372
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 55.0 seconds. Best P Value: 95	Average penalty: 778.55
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 53.0 seconds. Best P Value: 85	Average penalty: 716.275
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 85	Average penalty: 741.65
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 85	Average penalty: 757.35
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 85	Average penalty: 667.5
+SAP Count: 3	SAR Count: 3	SAPR Count: 0
+Iteration 6 took 53.0 seconds. Best P Value: 85	Average penalty: 614.4
+SAP Count: 4	SAR Count: 3	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 85	Average penalty: 598.45
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 85	Average penalty: 569.525
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 74	Average penalty: 568.1
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 74	Average penalty: 536.0
+SAP Count: 6	SAR Count: 5	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 74	Average penalty: 567.1
+SAP Count: 6	SAR Count: 6	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 74	Average penalty: 626.875
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 74	Average penalty: 680.2
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 74	Average penalty: 645.325
+SAP Count: 6	SAR Count: 9	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 74	Average penalty: 675.9
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 74	Average penalty: 685.275
+SAP Count: 7	SAR Count: 10	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 74	Average penalty: 637.275
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 74	Average penalty: 589.2
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 73	Average penalty: 515.35
+SAP Count: 10	SAR Count: 10	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 73	Average penalty: 520.05
+SAP Count: 10	SAR Count: 11	SAPR Count: 0
+Iteration 21 took 1.0 seconds. Best P Value: 73	Average penalty: 661.7
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 73	Average penalty: 616.625
+SAP Count: 10	SAR Count: 13	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 73	Average penalty: 578.025
+SAP Count: 10	SAR Count: 14	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 73	Average penalty: 653.1
+SAP Count: 10	SAR Count: 15	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 73	Average penalty: 615.5
+SAP Count: 10	SAR Count: 16	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 73	Average penalty: 571.4
+SAP Count: 11	SAR Count: 16	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 73	Average penalty: 699.875
+SAP Count: 12	SAR Count: 16	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 73	Average penalty: 680.1
+SAP Count: 13	SAR Count: 16	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 73	Average penalty: 632.875
+SAP Count: 13	SAR Count: 17	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 73	Average penalty: 710.25
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.51584953		401	1.69
+1	1	0.62816834		372	1.96
+2	1	0.12934011		74	2.16
+3	1	0.29076472		526	1.58
+4	1	0.27295715		538	1.51
+5	1	2000.0		73	2.23
+6	1	0.3745606		92	2.07
+7	1	0.2480111		1446	1.44
+8	1	0.6490749		900	1.5
+9	1	0.45948195		1375	1.47
+10	1	2000.0		1453	1.29
+11	1	0.08316374		538	1.51
+12	1	0.10878816		90	2.12
+13	2	0.4432864		97	2.07
+14	2	0.74479073		901	1.5
+15	2	0.4673632		1376	1.47
+16	2	2000.0		81	2.16
+17	2	2000.0		1454	1.29
+18	2	0.26370645		1448	1.44
+19	2	0.18299554		527	1.58
+20	2	0.39883298		527	1.58
+21	2	0.6589229		374	1.96
+22	2	0.5482164		402	1.69
+23	3	0.62528694		1385	1.47
+24	3	0.098864526		84	2.16
+25	3	0.113123395		95	2.15
+26	3	2000.0		76	2.23
+27	3	0.87096924		539	1.51
+28	3	0.4048793		108	2.07
+29	3	0.65515274		902	1.5
+30	3	2000.0		1457	1.29
+31	3	0.67206156		375	1.96
+32	3	0.2357758		375	1.96
+33	4	0.88063663		96	2.15
+34	4	2000.0		89	2.16
+35	4	0.9840849		1386	1.47
+36	4	0.29472443		962	1.5
+37	4	1.0023578		542	1.51
+38	4	2000.0		3482	1.29
+39	5	2000.0		1392	1.47
+Best Penalty Value: 73
+Best Robustness Value: 1.29
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 54
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 73
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 434
+MinimumWorkingDaysConstraint violation: 125
+RoomCapacityConstraint violation: 822
+RoomStabilityConstraint violation: 72
+Best Individual So Far robustness: 1458
+Total running time is 737 seconds
+Run: 3 and Seed of the Random Object: 1123783795
+Initialization took 47 seconds
+Initial population avg eventP: 3.445494699646643
+Initial bestP: 375
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 79	Average penalty: 844.35
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 79	Average penalty: 793.225
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 79	Average penalty: 825.7
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 79	Average penalty: 774.65
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 79	Average penalty: 763.35
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 79	Average penalty: 778.625
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 51.0 seconds. Best P Value: 79	Average penalty: 717.35
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 79	Average penalty: 733.625
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 79	Average penalty: 686.225
+SAP Count: 3	SAR Count: 7	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 79	Average penalty: 673.7
+SAP Count: 4	SAR Count: 7	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 79	Average penalty: 695.875
+SAP Count: 4	SAR Count: 8	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 79	Average penalty: 704.525
+SAP Count: 5	SAR Count: 8	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 76	Average penalty: 648.275
+SAP Count: 5	SAR Count: 9	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 76	Average penalty: 696.05
+SAP Count: 5	SAR Count: 10	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 76	Average penalty: 704.675
+SAP Count: 5	SAR Count: 11	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 76	Average penalty: 661.025
+SAP Count: 5	SAR Count: 12	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 76	Average penalty: 643.225
+SAP Count: 5	SAR Count: 13	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 76	Average penalty: 665.175
+SAP Count: 6	SAR Count: 13	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 76	Average penalty: 612.625
+SAP Count: 6	SAR Count: 14	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 76	Average penalty: 612.15
+SAP Count: 7	SAR Count: 14	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 76	Average penalty: 605.1
+SAP Count: 8	SAR Count: 14	SAPR Count: 0
+Iteration 22 took 51.0 seconds. Best P Value: 76	Average penalty: 594.625
+SAP Count: 9	SAR Count: 14	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 72	Average penalty: 597.825
+SAP Count: 9	SAR Count: 15	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 72	Average penalty: 498.2
+SAP Count: 9	SAR Count: 16	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 72	Average penalty: 526.875
+SAP Count: 10	SAR Count: 16	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 72	Average penalty: 490.725
+SAP Count: 10	SAR Count: 17	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 72	Average penalty: 505.925
+SAP Count: 10	SAR Count: 18	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 72	Average penalty: 535.275
+SAP Count: 11	SAR Count: 18	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 72	Average penalty: 578.475
+SAP Count: 12	SAR Count: 18	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 72	Average penalty: 579.425
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.5183391		420	1.92
+1	1	0.20007399		673	1.71
+2	1	0.6285322		846	1.57
+3	1	2000.0		1306	1.53
+4	1	2000.0		72	2.45
+5	1	0.8076598		373	2.16
+6	1	0.31329715		570	1.83
+7	1	0.5591396		94	2.42
+8	1	0.21390317		592	1.76
+9	1	0.2923684		745	1.69
+10	2	0.28069377		747	1.69
+11	2	0.2011929		594	1.76
+12	2	0.2988228		576	1.83
+13	2	2000.0		74	2.45
+14	2	0.3274133		374	2.16
+15	2	0.44787318		374	2.16
+16	2	0.504544		421	1.92
+17	2	0.57603985		852	1.57
+18	2	0.18655626		674	1.71
+19	2	0.5318239		115	2.43
+20	2	2000.0		1459	1.53
+21	2	0.4817454		1319	1.54
+22	3	0.29279688		578	1.83
+23	3	0.2159354		853	1.57
+24	3	0.41006872		853	1.57
+25	3	0.07802286		678	1.71
+26	3	0.091774516		678	1.71
+27	3	2000.0		75	2.45
+28	3	0.12015767		623	1.8
+29	3	0.14293633		632	1.76
+30	3	0.59406644		117	2.43
+31	3	0.2661734		117	2.43
+32	3	0.34309646		422	1.92
+33	3	0.68533945		422	1.92
+34	3	0.29395825		748	1.69
+35	3	2000.0		1324	1.54
+36	4	2000.0		757	1.69
+37	4	2000.0		75	2.52
+38	4	1.475727		376	2.16
+39	4	1.1249161		579	1.83
+Best Penalty Value: 72
+Best Robustness Value: 1.53
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 54
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 3
+Best Individual So Far penalty: 72
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 400
+MinimumWorkingDaysConstraint violation: 95
+RoomCapacityConstraint violation: 747
+RoomStabilityConstraint violation: 64
+Best Individual So Far robustness: 1570
+Total running time is 698 seconds
+Run: 4 and Seed of the Random Object: -1739694760
+Initialization took 51 seconds
+Initial population avg eventP: 3.58886925795053
+Initial bestP: 404
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 111	Average penalty: 908.3
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 88	Average penalty: 808.425
+SAP Count: 3	SAR Count: 0	SAPR Count: 0
+Iteration 3 took 51.0 seconds. Best P Value: 88	Average penalty: 723.375
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 88	Average penalty: 777.8
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 88	Average penalty: 721.5
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 88	Average penalty: 714.925
+SAP Count: 4	SAR Count: 3	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 88	Average penalty: 742.2
+SAP Count: 4	SAR Count: 4	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 88	Average penalty: 780.175
+SAP Count: 5	SAR Count: 4	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 84	Average penalty: 719.725
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 81	Average penalty: 753.95
+SAP Count: 6	SAR Count: 5	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 81	Average penalty: 675.85
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 78	Average penalty: 676.075
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 78	Average penalty: 724.6
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 78	Average penalty: 731.2
+SAP Count: 9	SAR Count: 6	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 78	Average penalty: 666.85
+SAP Count: 9	SAR Count: 7	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 78	Average penalty: 674.8
+SAP Count: 10	SAR Count: 7	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 78	Average penalty: 651.25
+SAP Count: 11	SAR Count: 7	SAPR Count: 0
+Iteration 18 took 51.0 seconds. Best P Value: 78	Average penalty: 693.3
+SAP Count: 12	SAR Count: 7	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 78	Average penalty: 716.475
+SAP Count: 13	SAR Count: 7	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 78	Average penalty: 650.05
+SAP Count: 13	SAR Count: 8	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 78	Average penalty: 654.9
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 78	Average penalty: 742.825
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 78	Average penalty: 684.15
+SAP Count: 15	SAR Count: 9	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 78	Average penalty: 700.0
+SAP Count: 16	SAR Count: 9	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 78	Average penalty: 677.775
+SAP Count: 16	SAR Count: 10	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 78	Average penalty: 669.875
+SAP Count: 16	SAR Count: 11	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 78	Average penalty: 623.825
+SAP Count: 17	SAR Count: 11	SAPR Count: 0
+Iteration 28 took 51.0 seconds. Best P Value: 78	Average penalty: 628.725
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 78	Average penalty: 612.675
+SAP Count: 18	SAR Count: 12	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 78	Average penalty: 632.7
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.43368372		1118	1.81
+1	1	0.24293596		439	2.2
+2	1	0.09871021		479	2.13
+3	1	0.43461567		404	2.36
+4	1	0.45828673		1366	1.8
+5	1	0.31394917		583	2.03
+6	1	0.08223365		84	2.45
+7	1	2000.0		78	2.54
+8	1	0.069373		479	2.13
+9	1	0.09203757		81	2.52
+10	1	0.035450682		87	2.44
+11	1	2000.0		1656	1.52
+12	1	0.09397599		447	2.14
+13	1	0.16394542		573	2.05
+14	1	0.554723		759	1.85
+15	1	0.16696489		1366	1.8
+16	1	0.27931857		109	2.43
+17	2	0.35250762		405	2.36
+18	2	0.09898972		405	2.36
+19	2	0.30700564		591	2.03
+20	2	0.2877409		89	2.44
+21	2	0.09521397		576	2.05
+22	2	0.091878526		576	2.05
+23	2	0.1009379		86	2.45
+24	2	0.8823668		1120	1.81
+25	2	2000.0		1657	1.52
+26	2	0.54454595		760	1.85
+27	2	0.09838053		461	2.14
+28	2	0.12997377		461	2.14
+29	2	0.0799421		441	2.2
+30	2	0.1650472		441	2.2
+31	2	0.08571429		80	2.54
+32	2	0.0012666244		80	2.54
+33	2	2000.0		78	2.57
+34	2	0.0323713		80	2.54
+35	3	2000.0		1658	1.52
+36	3	1.1736245		1658	1.52
+37	3	1.1736245		1367	1.8
+38	3	0.8263755		1367	1.8
+39	3	2000.0		763	1.85
+Best Penalty Value: 78
+Best Robustness Value: 1.52
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 78
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 360
+MinimumWorkingDaysConstraint violation: 110
+RoomCapacityConstraint violation: 1111
+RoomStabilityConstraint violation: 75
+Best Individual So Far robustness: 1758
+Total running time is 1004 seconds
+Run: 5 and Seed of the Random Object: 852956435
+Initialization took 36 seconds
+Initial population avg eventP: 3.1441696113074205
+Initial bestP: 353
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 85	Average penalty: 826.05
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 85	Average penalty: 745.075
+SAP Count: 3	SAR Count: 0	SAPR Count: 0
+Iteration 3 took 51.0 seconds. Best P Value: 77	Average penalty: 685.125
+SAP Count: 4	SAR Count: 0	SAPR Count: 0
+Iteration 4 took 51.0 seconds. Best P Value: 77	Average penalty: 707.075
+SAP Count: 5	SAR Count: 0	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 77	Average penalty: 657.8
+SAP Count: 5	SAR Count: 1	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 77	Average penalty: 657.025
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 77	Average penalty: 648.15
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 51.0 seconds. Best P Value: 77	Average penalty: 672.7
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 77	Average penalty: 672.275
+SAP Count: 7	SAR Count: 3	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 77	Average penalty: 634.15
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 77	Average penalty: 574.825
+SAP Count: 8	SAR Count: 4	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 77	Average penalty: 526.25
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 77	Average penalty: 518.225
+SAP Count: 9	SAR Count: 5	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 71	Average penalty: 515.575
+SAP Count: 10	SAR Count: 5	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 71	Average penalty: 564.025
+SAP Count: 10	SAR Count: 6	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 71	Average penalty: 513.2
+SAP Count: 11	SAR Count: 6	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 71	Average penalty: 533.675
+SAP Count: 11	SAR Count: 7	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 71	Average penalty: 543.875
+SAP Count: 12	SAR Count: 7	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 71	Average penalty: 491.2
+SAP Count: 13	SAR Count: 7	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 71	Average penalty: 478.025
+SAP Count: 13	SAR Count: 8	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 71	Average penalty: 540.875
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 71	Average penalty: 498.925
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 71	Average penalty: 500.75
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 71	Average penalty: 463.0
+SAP Count: 14	SAR Count: 11	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 71	Average penalty: 441.65
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 71	Average penalty: 451.75
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 71	Average penalty: 482.35
+SAP Count: 16	SAR Count: 12	SAPR Count: 0
+Iteration 28 took 51.0 seconds. Best P Value: 71	Average penalty: 487.025
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 71	Average penalty: 530.525
+SAP Count: 18	SAR Count: 12	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 71	Average penalty: 549.075
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.47742647		353	2.02
+1	1	0.32771665		1070	1.51
+2	1	0.5396639		575	1.67
+3	1	0.4435306		115	2.21
+4	1	0.28290784		367	1.96
+5	1	2000.0		71	2.4
+6	1	0.47011855		960	1.6
+7	1	0.1878338		1026	1.58
+8	1	0.33832693		396	1.79
+9	1	0.27721107		412	1.68
+10	1	0.12905896		77	2.22
+11	1	2000.0		1279	1.47
+12	1	0.19851528		76	2.3
+13	2	0.13317133		76	2.33
+14	2	2000.0		1280	1.47
+15	2	0.432769		117	2.21
+16	2	0.076105535		369	1.96
+17	2	0.33832693		369	1.96
+18	2	2000.0		72	2.4
+19	2	0.1083814		92	2.22
+20	2	0.13152461		77	2.28
+21	2	0.07526882		576	1.67
+22	2	0.31953642		576	1.67
+23	2	0.14485866		576	1.67
+24	2	0.18700598		1028	1.58
+25	2	0.47094637		962	1.6
+26	2	0.47742647		355	2.02
+27	2	0.32688883		1071	1.51
+28	2	0.48318556		414	1.68
+29	3	2000.0		1281	1.47
+30	3	0.2696571		118	2.21
+31	3	0.72605956		118	2.21
+32	3	0.3583024		1072	1.51
+33	3	2000.0		95	2.22
+34	3	0.7747274		1030	1.58
+35	3	1.6089714		422	1.68
+36	4	2000.0		1283	1.47
+37	4	2.0		391	1.96
+38	4	2000.0		82	2.32
+39	5	2000.0		1284	1.47
+Best Penalty Value: 71
+Best Robustness Value: 1.47
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 44
+MinimumWorkingDaysConstraint violation: 25
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 71
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 344
+MinimumWorkingDaysConstraint violation: 130
+RoomCapacityConstraint violation: 747
+RoomStabilityConstraint violation: 58
+Best Individual So Far robustness: 1348
+Total running time is 992 seconds
+Run: 6 and Seed of the Random Object: 1689992682
+Initialization took 37 seconds
+Initial population avg eventP: 3.263780918727915
+Initial bestP: 362
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 100	Average penalty: 853.6
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 100	Average penalty: 903.95
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 100	Average penalty: 834.35
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 100	Average penalty: 774.625
+SAP Count: 1	SAR Count: 4	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 100	Average penalty: 766.15
+SAP Count: 1	SAR Count: 5	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 100	Average penalty: 750.85
+SAP Count: 1	SAR Count: 6	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 100	Average penalty: 806.725
+SAP Count: 1	SAR Count: 7	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 100	Average penalty: 887.775
+SAP Count: 1	SAR Count: 8	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 100	Average penalty: 849.25
+SAP Count: 1	SAR Count: 9	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 100	Average penalty: 853.025
+SAP Count: 2	SAR Count: 9	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 94	Average penalty: 949.95
+SAP Count: 3	SAR Count: 9	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 82	Average penalty: 963.325
+SAP Count: 3	SAR Count: 10	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 82	Average penalty: 835.4
+SAP Count: 4	SAR Count: 10	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 82	Average penalty: 857.95
+SAP Count: 5	SAR Count: 10	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 82	Average penalty: 779.3
+SAP Count: 5	SAR Count: 11	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 82	Average penalty: 849.0
+SAP Count: 6	SAR Count: 11	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 82	Average penalty: 792.925
+SAP Count: 7	SAR Count: 11	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 82	Average penalty: 740.25
+SAP Count: 7	SAR Count: 12	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 82	Average penalty: 700.475
+SAP Count: 7	SAR Count: 13	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 82	Average penalty: 688.25
+SAP Count: 8	SAR Count: 13	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 82	Average penalty: 681.45
+SAP Count: 9	SAR Count: 13	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 77	Average penalty: 716.85
+SAP Count: 10	SAR Count: 13	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 77	Average penalty: 688.6
+SAP Count: 10	SAR Count: 14	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 77	Average penalty: 706.1
+SAP Count: 11	SAR Count: 14	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 77	Average penalty: 780.55
+SAP Count: 11	SAR Count: 15	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 77	Average penalty: 826.825
+SAP Count: 11	SAR Count: 16	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 77	Average penalty: 805.925
+SAP Count: 12	SAR Count: 16	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 63	Average penalty: 740.45
+SAP Count: 12	SAR Count: 17	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 63	Average penalty: 744.575
+SAP Count: 13	SAR Count: 17	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 63	Average penalty: 876.575
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.23191985		409	1.8
+1	1	0.765322		1320	1.64
+2	1	0.26596832		90	2.31
+3	1	0.11668549		77	2.32
+4	1	0.06901953		388	1.93
+5	1	0.33056724		1905	1.36
+6	1	2000.0		2008	1.35
+7	1	0.6179132		421	1.7
+8	1	0.439334		358	2.19
+9	1	0.31541696		1565	1.46
+10	1	0.13229224		388	1.93
+11	1	2000.0		63	2.42
+12	1	0.2584148		381	2.0
+13	1	0.29418832		1546	1.5
+14	2	0.30915093		1554	1.5
+15	2	0.21699916		383	2.0
+16	2	0.0		383	2.0
+17	2	0.20977949		383	2.0
+18	2	0.637657		440	1.7
+19	2	0.2787168		91	2.31
+20	2	2000.0		81	2.32
+21	2	0.3476966		1916	1.36
+22	2	0.33073565		1568	1.46
+23	2	0.779821		1328	1.64
+24	2	0.46994808		362	2.19
+25	2	0.33862954		410	1.8
+26	2	2000.0		2023	1.35
+27	3	0.16920996		1555	1.5
+28	3	0.14816017		1555	1.5
+29	3	1000.2114		2007	1.36
+30	3	1000.1042		2007	1.36
+31	3	0.80078465		441	1.7
+32	3	0.38063854		1600	1.46
+33	3	0.78703463		1350	1.64
+34	3	0.56624997		93	2.31
+35	3	2000.0		82	2.32
+36	3	0.8161959		390	1.93
+37	4	2000.0		1609	1.46
+38	4	2000.0		82	2.39
+39	4	1.8969517		451	1.7
+Best Penalty Value: 63
+Best Robustness Value: 1.35
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 34
+MinimumWorkingDaysConstraint violation: 25
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 63
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 424
+MinimumWorkingDaysConstraint violation: 115
+RoomCapacityConstraint violation: 1400
+RoomStabilityConstraint violation: 69
+Best Individual So Far robustness: 2008
+Total running time is 732 seconds
+Run: 7 and Seed of the Random Object: 1800763825
+Initialization took 67 seconds
+Initial population avg eventP: 3.4079505300353357
+Initial bestP: 344
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 77	Average penalty: 809.625
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 77	Average penalty: 842.825
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 77	Average penalty: 647.75
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 77	Average penalty: 658.55
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 72	Average penalty: 572.0
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 72	Average penalty: 545.175
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 72	Average penalty: 512.275
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 51.0 seconds. Best P Value: 72	Average penalty: 542.125
+SAP Count: 7	SAR Count: 2	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 72	Average penalty: 526.775
+SAP Count: 7	SAR Count: 3	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 72	Average penalty: 550.825
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 72	Average penalty: 541.95
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 72	Average penalty: 554.9
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 72	Average penalty: 502.85
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 72	Average penalty: 525.2
+SAP Count: 9	SAR Count: 6	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 72	Average penalty: 479.475
+SAP Count: 9	SAR Count: 7	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 72	Average penalty: 485.95
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 72	Average penalty: 511.3
+SAP Count: 10	SAR Count: 8	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 72	Average penalty: 551.275
+SAP Count: 11	SAR Count: 8	SAPR Count: 0
+Iteration 19 took 51.0 seconds. Best P Value: 71	Average penalty: 509.95
+SAP Count: 12	SAR Count: 8	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 71	Average penalty: 487.375
+SAP Count: 13	SAR Count: 8	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 71	Average penalty: 473.8
+SAP Count: 14	SAR Count: 8	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 71	Average penalty: 486.1
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 71	Average penalty: 508.45
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 71	Average penalty: 498.075
+SAP Count: 15	SAR Count: 10	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 71	Average penalty: 521.175
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 71	Average penalty: 498.375
+SAP Count: 16	SAR Count: 11	SAPR Count: 0
+Iteration 27 took 51.0 seconds. Best P Value: 71	Average penalty: 487.625
+SAP Count: 17	SAR Count: 11	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 71	Average penalty: 502.825
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 71	Average penalty: 479.0
+SAP Count: 18	SAR Count: 12	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 71	Average penalty: 469.925
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.5272221		409	2.01
+1	1	0.13646837		375	2.12
+2	1	0.09391147		358	2.2
+3	1	0.19141006		72	2.42
+4	1	0.11776463		75	2.34
+5	1	0.088046364		365	2.18
+6	1	0.33242562		92	2.31
+7	1	2000.0		71	2.55
+8	1	0.35823384		342	2.26
+9	1	0.5727116		706	1.81
+10	1	0.41005096		730	1.72
+11	1	0.13144986		395	2.06
+12	1	0.6147448		888	1.55
+13	1	2000.0		1094	1.43
+14	2	2000.0		1217	1.43
+15	2	0.66475785		889	1.55
+16	2	0.12860893		77	2.34
+17	2	2000.0		74	2.42
+18	2	0.06537819		343	2.26
+19	2	0.41660702		792	1.72
+20	2	0.14260717		397	2.06
+21	2	0.6253877		713	1.81
+22	2	0.27845383		343	2.26
+23	2	0.07460431		376	2.12
+24	2	0.09918079		376	2.12
+25	2	0.31352898		94	2.31
+26	2	0.46536228		412	2.01
+27	2	0.06362841		412	2.01
+28	2	0.17028554		360	2.2
+29	3	2000.0		1222	1.43
+30	3	2000.0		78	2.34
+31	3	1.2541208		399	2.06
+32	3	0.98963535		794	1.72
+33	3	0.21578422		890	1.55
+34	3	0.5882867		101	2.31
+35	3	0.47702298		890	1.55
+36	4	0.7702752		344	2.26
+37	4	1.2297248		344	2.26
+38	4	2000.0		90	2.34
+39	4	2000.0		798	1.72
+Best Penalty Value: 71
+Best Robustness Value: 1.43
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 10
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 71
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 426
+MinimumWorkingDaysConstraint violation: 80
+RoomCapacityConstraint violation: 528
+RoomStabilityConstraint violation: 60
+Best Individual So Far robustness: 1307
+Total running time is 1017 seconds
+Run: 8 and Seed of the Random Object: 599496976
+Initialization took 38 seconds
+Initial population avg eventP: 3.045053003533569
+Initial bestP: 389
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 389	Average penalty: 881.55
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 389	Average penalty: 889.75
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 87	Average penalty: 809.575
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 87	Average penalty: 799.675
+SAP Count: 1	SAR Count: 4	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 87	Average penalty: 650.45
+SAP Count: 1	SAR Count: 5	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 87	Average penalty: 633.425
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 51.0 seconds. Best P Value: 87	Average penalty: 622.125
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 87	Average penalty: 556.825
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 87	Average penalty: 566.55
+SAP Count: 4	SAR Count: 6	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 87	Average penalty: 493.7
+SAP Count: 5	SAR Count: 6	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 87	Average penalty: 478.275
+SAP Count: 6	SAR Count: 6	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 87	Average penalty: 478.05
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 87	Average penalty: 442.3
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 87	Average penalty: 449.5
+SAP Count: 7	SAR Count: 8	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 87	Average penalty: 461.4
+SAP Count: 8	SAR Count: 8	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 87	Average penalty: 405.675
+SAP Count: 8	SAR Count: 9	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 87	Average penalty: 422.15
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 87	Average penalty: 447.775
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 87	Average penalty: 416.7
+SAP Count: 9	SAR Count: 11	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 87	Average penalty: 429.375
+SAP Count: 9	SAR Count: 12	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 87	Average penalty: 402.4
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 51.0 seconds. Best P Value: 73	Average penalty: 376.1
+SAP Count: 10	SAR Count: 13	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 73	Average penalty: 455.0
+SAP Count: 11	SAR Count: 13	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 73	Average penalty: 438.225
+SAP Count: 11	SAR Count: 14	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 73	Average penalty: 346.5
+SAP Count: 12	SAR Count: 14	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 73	Average penalty: 360.275
+SAP Count: 12	SAR Count: 15	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 73	Average penalty: 314.725
+SAP Count: 12	SAR Count: 16	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 73	Average penalty: 304.05
+SAP Count: 12	SAR Count: 17	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 73	Average penalty: 307.05
+SAP Count: 12	SAR Count: 18	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 73	Average penalty: 311.85
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.0		486	1.65
+1	1	0.37412158		389	1.92
+2	1	0.35975617		413	1.78
+3	1	0.15458336		87	2.14
+4	1	0.10688153		99	2.12
+5	1	0.12703243		486	1.65
+6	1	0.23037435		486	1.65
+7	1	0.15741919		389	1.92
+8	1	2000.0		73	2.38
+9	1	0.4331667		144	2.03
+10	1	0.23980294		86	2.27
+11	1	0.0		486	1.65
+12	1	2000.0		976	1.31
+13	1	0.13394603		116	2.06
+14	1	0.8603927		491	1.49
+15	2	2000.0		75	2.38
+16	2	0.88683146		415	1.78
+17	2	0.24081889		87	2.24
+18	2	0.20126395		90	2.14
+19	2	0.5898761		145	2.03
+20	2	0.16337642		117	2.06
+21	2	2000.0		983	1.31
+22	2	1.064803		492	1.49
+23	3	0.23646721		88	2.24
+24	3	2000.0		80	2.38
+25	3	0.12145397		417	1.78
+26	3	0.15738979		416	1.82
+27	3	0.49382806		393	1.92
+28	3	2000.0		984	1.31
+29	3	0.27213424		417	1.78
+30	3	0.4306199		147	2.03
+31	3	0.16475064		122	2.06
+32	3	0.20583493		91	2.14
+33	3	1.0664648		493	1.49
+34	4	0.98451173		87	2.27
+35	4	2000.0		394	1.92
+36	4	2000.0		81	2.38
+37	4	1.7417003		151	2.03
+38	5	2000.0		82	2.38
+39	5	2000.0		420	1.78
+Best Penalty Value: 73
+Best Robustness Value: 1.31
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 73
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 398
+MinimumWorkingDaysConstraint violation: 100
+RoomCapacityConstraint violation: 397
+RoomStabilityConstraint violation: 81
+Best Individual So Far robustness: 1084
+Total running time is 686 seconds
+Run: 9 and Seed of the Random Object: 84863518
+Initialization took 39 seconds
+Initial population avg eventP: 3.0515017667844524
+Initial bestP: 379
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 379	Average penalty: 867.2
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 379	Average penalty: 855.55
+SAP Count: 0	SAR Count: 3	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 379	Average penalty: 833.5
+SAP Count: 0	SAR Count: 4	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 379	Average penalty: 829.25
+SAP Count: 1	SAR Count: 4	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 70	Average penalty: 811.35
+SAP Count: 1	SAR Count: 5	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 70	Average penalty: 784.725
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 70	Average penalty: 738.0
+SAP Count: 2	SAR Count: 6	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 70	Average penalty: 689.275
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 70	Average penalty: 570.125
+SAP Count: 3	SAR Count: 7	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 70	Average penalty: 582.525
+SAP Count: 3	SAR Count: 8	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 70	Average penalty: 562.875
+SAP Count: 3	SAR Count: 9	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 70	Average penalty: 559.85
+SAP Count: 4	SAR Count: 9	SAPR Count: 0
+Iteration 13 took 51.0 seconds. Best P Value: 70	Average penalty: 567.675
+SAP Count: 4	SAR Count: 10	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 70	Average penalty: 576.975
+SAP Count: 5	SAR Count: 10	SAPR Count: 0
+Iteration 15 took 51.0 seconds. Best P Value: 70	Average penalty: 544.8
+SAP Count: 6	SAR Count: 10	SAPR Count: 0
+Iteration 16 took 51.0 seconds. Best P Value: 70	Average penalty: 545.725
+SAP Count: 6	SAR Count: 11	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 70	Average penalty: 549.85
+SAP Count: 6	SAR Count: 12	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 70	Average penalty: 508.775
+SAP Count: 6	SAR Count: 13	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 70	Average penalty: 491.925
+SAP Count: 7	SAR Count: 13	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 70	Average penalty: 532.45
+SAP Count: 7	SAR Count: 14	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 70	Average penalty: 518.125
+SAP Count: 7	SAR Count: 15	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 70	Average penalty: 545.6
+SAP Count: 8	SAR Count: 15	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 70	Average penalty: 508.175
+SAP Count: 9	SAR Count: 15	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 70	Average penalty: 527.725
+SAP Count: 9	SAR Count: 16	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 70	Average penalty: 563.775
+SAP Count: 9	SAR Count: 17	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 70	Average penalty: 571.475
+SAP Count: 9	SAR Count: 18	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 70	Average penalty: 538.525
+SAP Count: 9	SAR Count: 19	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 70	Average penalty: 562.775
+SAP Count: 9	SAR Count: 20	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 70	Average penalty: 508.775
+SAP Count: 10	SAR Count: 20	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 70	Average penalty: 526.725
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.13158432		382	1.9
+1	1	0.1995032		409	1.81
+2	1	2000.0		70	2.23
+3	1	0.32768476		78	2.16
+4	1	2000.0		1018	1.3
+5	1	0.7694297		471	1.72
+6	1	0.55658776		136	1.99
+7	1	0.14488907		993	1.36
+8	1	0.12525521		394	1.83
+9	1	0.33047503		952	1.37
+10	1	0.35626787		361	1.92
+11	1	0.883728		853	1.53
+12	2	0.6630763		869	1.68
+13	2	0.44959733		886	1.53
+14	2	0.2012741		410	1.81
+15	2	2000.0		994	1.36
+16	2	0.13273244		407	1.83
+17	2	0.10344828		476	1.72
+18	2	0.47222432		476	1.72
+19	2	0.07158352		476	1.72
+20	2	0.5958187		153	1.99
+21	2	0.31253895		955	1.37
+22	2	0.352906		377	1.92
+23	2	0.36371458		82	2.16
+24	2	0.13598624		383	1.9
+25	2	2000.0		72	2.23
+26	3	0.31196004		981	1.37
+27	3	0.47723687		888	1.53
+28	3	0.5950342		158	1.99
+29	3	2000.0		995	1.36
+30	3	0.96777105		870	1.68
+31	3	0.09353167		378	1.92
+32	3	0.2626399		378	1.92
+33	3	0.08917437		84	2.18
+34	3	0.29900083		85	2.16
+35	3	2000.0		77	2.23
+36	3	0.81180984		390	1.9
+37	4	2000.0		872	1.68
+38	4	1001.0		890	1.53
+39	4	1001.0		890	1.53
+Best Penalty Value: 70
+Best Robustness Value: 1.3
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 44
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 6
+Best Individual So Far penalty: 70
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 366
+MinimumWorkingDaysConstraint violation: 100
+RoomCapacityConstraint violation: 486
+RoomStabilityConstraint violation: 66
+Best Individual So Far robustness: 1018
+Total running time is 585 seconds
+Run: 10 and Seed of the Random Object: -1996405751
+Initialization took 43 seconds
+Initial population avg eventP: 3.0754416961130744
+Initial bestP: 389
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 85	Average penalty: 803.775
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 85	Average penalty: 899.65
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 85	Average penalty: 846.375
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 76	Average penalty: 810.025
+SAP Count: 4	SAR Count: 1	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 76	Average penalty: 688.625
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 76	Average penalty: 704.225
+SAP Count: 4	SAR Count: 3	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 76	Average penalty: 722.45
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 76	Average penalty: 709.75
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 76	Average penalty: 688.225
+SAP Count: 7	SAR Count: 3	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 76	Average penalty: 641.6
+SAP Count: 8	SAR Count: 3	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 76	Average penalty: 622.475
+SAP Count: 9	SAR Count: 3	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 76	Average penalty: 592.3
+SAP Count: 9	SAR Count: 4	SAPR Count: 0
+Iteration 13 took 1.0 seconds. Best P Value: 76	Average penalty: 541.575
+SAP Count: 10	SAR Count: 4	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 76	Average penalty: 547.9
+SAP Count: 10	SAR Count: 5	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 76	Average penalty: 602.65
+SAP Count: 11	SAR Count: 5	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 76	Average penalty: 583.3
+SAP Count: 12	SAR Count: 5	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 71	Average penalty: 529.075
+SAP Count: 12	SAR Count: 6	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 71	Average penalty: 542.325
+SAP Count: 12	SAR Count: 7	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 71	Average penalty: 529.2
+SAP Count: 13	SAR Count: 7	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 63	Average penalty: 568.9
+SAP Count: 14	SAR Count: 7	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 63	Average penalty: 548.225
+SAP Count: 14	SAR Count: 8	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 63	Average penalty: 543.975
+SAP Count: 15	SAR Count: 8	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 63	Average penalty: 540.15
+SAP Count: 16	SAR Count: 8	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 63	Average penalty: 514.175
+SAP Count: 17	SAR Count: 8	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 63	Average penalty: 532.025
+SAP Count: 18	SAR Count: 8	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 63	Average penalty: 592.875
+SAP Count: 19	SAR Count: 8	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 63	Average penalty: 604.775
+SAP Count: 19	SAR Count: 9	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 63	Average penalty: 573.175
+SAP Count: 19	SAR Count: 10	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 63	Average penalty: 523.65
+SAP Count: 20	SAR Count: 10	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 63	Average penalty: 533.275
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.6398641		390	1.72
+1	1	0.056938324		389	2.04
+2	1	0.06816458		85	2.24
+3	1	0.03667296		76	2.26
+4	1	0.5304989		389	2.04
+5	1	0.094474845		71	2.3
+6	1	0.1619292		90	2.2
+7	1	0.4077365		121	2.1
+8	1	0.1261763		1005	1.56
+9	1	2000.0		63	2.36
+10	1	0.0850322		828	1.6
+11	1	0.43886495		1092	1.52
+12	1	0.2419899		828	1.6
+13	1	0.041700967		75	2.27
+14	1	0.19023292		1000	1.57
+15	1	2000.0		1221	1.29
+16	1	0.4903879		762	1.7
+17	2	0.01980198		77	2.26
+18	2	0.04392922		77	2.26
+19	2	0.14639933		86	2.24
+20	2	0.0518089		86	2.24
+21	2	2000.0		1228	1.29
+22	2	0.7786923		123	2.1
+23	2	2000.0		72	2.3
+24	2	0.95313305		391	1.72
+25	2	0.007785467		77	2.26
+26	2	0.34506148		767	1.7
+27	2	0.12871288		767	1.7
+28	2	0.2032872		767	1.7
+29	2	0.34536126		1002	1.57
+30	2	0.45936826		1097	1.52
+31	2	0.04306417		1006	1.56
+32	2	0.08862071		1006	1.56
+33	3	2000.0		124	2.1
+34	3	2.0		842	1.6
+35	3	2000.0		1275	1.29
+36	4	2000.0		851	1.6
+37	4	2000.0		75	2.3
+38	4	2.0		131	2.1
+39	5	2000.0		919	1.6
+Best Penalty Value: 63
+Best Robustness Value: 1.29
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 5
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 63
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 376
+MinimumWorkingDaysConstraint violation: 100
+RoomCapacityConstraint violation: 682
+RoomStabilityConstraint violation: 63
+Best Individual So Far robustness: 1343
+Total running time is 1097 seconds
+Run: 11 and Seed of the Random Object: -912385625
+Initialization took 43 seconds
+Initial population avg eventP: 3.2951413427561835
+Initial bestP: 363
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 83	Average penalty: 847.225
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 83	Average penalty: 778.175
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 83	Average penalty: 652.925
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 83	Average penalty: 618.55
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 83	Average penalty: 600.425
+SAP Count: 3	SAR Count: 3	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 83	Average penalty: 562.8
+SAP Count: 4	SAR Count: 3	SAPR Count: 0
+Iteration 7 took 51.0 seconds. Best P Value: 83	Average penalty: 537.575
+SAP Count: 4	SAR Count: 4	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 83	Average penalty: 479.9
+SAP Count: 5	SAR Count: 4	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 83	Average penalty: 499.75
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 50.0 seconds. Best P Value: 83	Average penalty: 556.375
+SAP Count: 6	SAR Count: 5	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 83	Average penalty: 524.425
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 83	Average penalty: 505.675
+SAP Count: 7	SAR Count: 6	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 83	Average penalty: 523.475
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 73	Average penalty: 461.65
+SAP Count: 9	SAR Count: 6	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 73	Average penalty: 424.475
+SAP Count: 10	SAR Count: 6	SAPR Count: 0
+Iteration 16 took 51.0 seconds. Best P Value: 73	Average penalty: 447.95
+SAP Count: 11	SAR Count: 6	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 73	Average penalty: 447.8
+SAP Count: 12	SAR Count: 6	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 73	Average penalty: 513.425
+SAP Count: 12	SAR Count: 7	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 73	Average penalty: 486.325
+SAP Count: 12	SAR Count: 8	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 73	Average penalty: 508.05
+SAP Count: 12	SAR Count: 9	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 73	Average penalty: 475.75
+SAP Count: 12	SAR Count: 10	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 73	Average penalty: 472.2
+SAP Count: 13	SAR Count: 10	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 73	Average penalty: 542.575
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 73	Average penalty: 477.975
+SAP Count: 14	SAR Count: 11	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 73	Average penalty: 487.575
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 73	Average penalty: 489.025
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 73	Average penalty: 454.75
+SAP Count: 16	SAR Count: 12	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 73	Average penalty: 479.475
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 73	Average penalty: 506.2
+SAP Count: 18	SAR Count: 12	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 73	Average penalty: 467.7
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.051533435		404	2.05
+1	1	0.44130215		363	2.24
+2	1	2000.0		1297	1.44
+3	1	0.036199097		88	2.34
+4	1	0.2072021		404	2.05
+5	1	0.21618904		388	2.09
+6	1	0.044180494		89	2.32
+7	1	2000.0		73	2.48
+8	1	0.13071896		79	2.47
+9	1	0.13235295		80	2.35
+10	1	0.2666541		648	1.85
+11	1	0.30077928		95	2.3
+12	1	0.2253645		694	1.61
+13	1	0.5365133		774	1.49
+14	1	0.26835093		678	1.79
+15	1	0.08037959		694	1.61
+16	1	0.1807441		758	1.54
+17	1	0.3916541		434	1.86
+18	2	0.25876626		435	1.86
+19	2	0.009615385		435	1.86
+20	2	0.17497955		435	1.86
+21	2	0.36450407		770	1.54
+22	2	0.29932702		96	2.3
+23	2	2000.0		75	2.48
+24	2	0.39701396		683	1.79
+25	2	2000.0		1298	1.44
+26	2	0.47489622		1298	1.44
+27	2	0.27008775		649	1.85
+28	2	0.052982893		776	1.49
+29	2	0.47489622		776	1.49
+30	2	0.42262092		389	2.09
+31	2	0.4414979		365	2.24
+32	2	0.16856407		83	2.43
+33	2	0.1356296		93	2.32
+34	3	2000.0		721	1.61
+35	3	2000.0		76	2.48
+36	3	1.2714248		651	1.85
+37	3	1.3684042		368	2.24
+38	3	0.24720663		94	2.32
+39	3	0.51676023		102	2.3
+Best Penalty Value: 73
+Best Robustness Value: 1.44
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 38
+MinimumWorkingDaysConstraint violation: 30
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 73
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 374
+MinimumWorkingDaysConstraint violation: 70
+RoomCapacityConstraint violation: 789
+RoomStabilityConstraint violation: 64
+Best Individual So Far robustness: 1297
+Total running time is 993 seconds
+Run: 12 and Seed of the Random Object: 1893311756
+Initialization took 57 seconds
+Initial population avg eventP: 3.4618374558303886
+Initial bestP: 336
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 336	Average penalty: 1025.475
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 336	Average penalty: 1055.65
+SAP Count: 0	SAR Count: 3	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 336	Average penalty: 864.925
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 107	Average penalty: 830.775
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 76	Average penalty: 763.2
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 76	Average penalty: 788.15
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 76	Average penalty: 698.675
+SAP Count: 2	SAR Count: 6	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 76	Average penalty: 660.475
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 73	Average penalty: 595.95
+SAP Count: 3	SAR Count: 7	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 73	Average penalty: 600.35
+SAP Count: 4	SAR Count: 7	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 73	Average penalty: 606.8
+SAP Count: 4	SAR Count: 8	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 73	Average penalty: 627.025
+SAP Count: 4	SAR Count: 9	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 73	Average penalty: 602.375
+SAP Count: 5	SAR Count: 9	SAPR Count: 0
+Iteration 14 took 51.0 seconds. Best P Value: 73	Average penalty: 628.425
+SAP Count: 5	SAR Count: 10	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 73	Average penalty: 656.175
+SAP Count: 5	SAR Count: 11	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 73	Average penalty: 576.625
+SAP Count: 6	SAR Count: 11	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 73	Average penalty: 624.9
+SAP Count: 7	SAR Count: 11	SAPR Count: 0
+Iteration 18 took 51.0 seconds. Best P Value: 68	Average penalty: 706.925
+SAP Count: 7	SAR Count: 12	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 68	Average penalty: 717.375
+SAP Count: 8	SAR Count: 12	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 68	Average penalty: 715.65
+SAP Count: 8	SAR Count: 13	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 68	Average penalty: 572.025
+SAP Count: 9	SAR Count: 13	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 68	Average penalty: 590.85
+SAP Count: 9	SAR Count: 14	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 68	Average penalty: 611.575
+SAP Count: 9	SAR Count: 15	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 68	Average penalty: 682.175
+SAP Count: 9	SAR Count: 16	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 68	Average penalty: 681.925
+SAP Count: 9	SAR Count: 17	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 68	Average penalty: 586.45
+SAP Count: 9	SAR Count: 18	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 68	Average penalty: 635.1
+SAP Count: 9	SAR Count: 19	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 68	Average penalty: 573.8
+SAP Count: 10	SAR Count: 19	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 68	Average penalty: 593.875
+SAP Count: 11	SAR Count: 19	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 68	Average penalty: 590.375
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.31464633		471	1.99
+1	1	0.006310958		386	2.18
+2	1	0.09105811		386	2.18
+3	1	0.0		386	2.18
+4	1	0.74842227		483	1.76
+5	1	2000.0		1811	1.48
+6	1	0.19891812		334	2.24
+7	1	0.37710023		94	2.34
+8	1	2000.0		68	2.46
+9	1	0.1632653		386	2.18
+10	1	0.54077536		1699	1.49
+11	1	0.97315794		1153	1.64
+12	1	0.24264404		397	2.02
+13	1	0.13187444		334	2.24
+14	2	2000.0		73	2.49
+15	2	0.035446797		83	2.46
+16	2	0.46212772		1154	1.64
+17	2	0.5030738		1154	1.64
+18	2	0.5619281		399	2.02
+19	2	0.12742762		83	2.46
+20	2	0.30682263		473	1.99
+21	2	0.5375083		1700	1.49
+22	2	0.61714846		98	2.34
+23	2	2000.0		1814	1.48
+24	2	0.73768914		485	1.76
+25	3	0.21359223		400	2.02
+26	3	0.071679406		400	2.02
+27	3	0.025301898		400	2.02
+28	3	0.48319253		356	2.24
+29	3	1.036077		1701	1.49
+30	3	2000.0		76	2.51
+31	3	0.022292692		76	2.51
+32	3	0.17884958		81	2.49
+33	3	0.4008553		100	2.34
+34	3	2000.0		1815	1.48
+35	3	0.3018809		474	1.99
+36	3	1.1910148		486	1.76
+37	4	2000.0		84	2.46
+38	4	2000.0		1160	1.64
+39	4	2.0		102	2.34
+Best Penalty Value: 68
+Best Robustness Value: 1.48
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 48
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 68
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 406
+MinimumWorkingDaysConstraint violation: 110
+RoomCapacityConstraint violation: 1218
+RoomStabilityConstraint violation: 77
+Best Individual So Far robustness: 1815
+Total running time is 655 seconds
+Run: 13 and Seed of the Random Object: 1252998131
+Initialization took 22 seconds
+Initial population avg eventP: 2.926060070671378
+Initial bestP: 360
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 360	Average penalty: 755.675
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 74	Average penalty: 702.7
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 74	Average penalty: 776.425
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 74	Average penalty: 878.85
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 74	Average penalty: 806.1
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 51.0 seconds. Best P Value: 74	Average penalty: 784.65
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 74	Average penalty: 724.475
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 74	Average penalty: 730.875
+SAP Count: 5	SAR Count: 4	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 74	Average penalty: 678.8
+SAP Count: 5	SAR Count: 5	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 74	Average penalty: 701.75
+SAP Count: 5	SAR Count: 6	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 74	Average penalty: 789.675
+SAP Count: 5	SAR Count: 7	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 74	Average penalty: 761.425
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 51.0 seconds. Best P Value: 74	Average penalty: 720.45
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 74	Average penalty: 710.55
+SAP Count: 6	SAR Count: 9	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 74	Average penalty: 759.175
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 74	Average penalty: 769.925
+SAP Count: 8	SAR Count: 9	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 74	Average penalty: 751.5
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 74	Average penalty: 741.975
+SAP Count: 8	SAR Count: 11	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 74	Average penalty: 766.75
+SAP Count: 8	SAR Count: 12	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 74	Average penalty: 781.05
+SAP Count: 9	SAR Count: 12	SAPR Count: 0
+Iteration 21 took 51.0 seconds. Best P Value: 73	Average penalty: 699.65
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 51.0 seconds. Best P Value: 73	Average penalty: 708.3
+SAP Count: 11	SAR Count: 12	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 73	Average penalty: 651.1
+SAP Count: 11	SAR Count: 13	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 73	Average penalty: 711.9
+SAP Count: 12	SAR Count: 13	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 73	Average penalty: 641.1
+SAP Count: 12	SAR Count: 14	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 73	Average penalty: 611.5
+SAP Count: 12	SAR Count: 15	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 73	Average penalty: 710.475
+SAP Count: 13	SAR Count: 15	SAPR Count: 0
+Iteration 28 took 51.0 seconds. Best P Value: 73	Average penalty: 585.175
+SAP Count: 14	SAR Count: 15	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 73	Average penalty: 615.025
+SAP Count: 14	SAR Count: 16	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 73	Average penalty: 601.275
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.61029214		872	1.45
+1	1	0.082036585		74	2.1
+2	1	0.21614796		401	1.82
+3	1	0.10135135		375	1.92
+4	1	0.20877697		406	1.64
+5	1	0.105036855		435	1.54
+6	1	0.21457821		83	2.06
+7	1	0.11882337		412	1.62
+8	1	0.3492356		435	1.54
+9	1	2000.0		1701	1.18
+10	1	2000.0		73	2.17
+11	1	0.14141415		365	1.95
+12	1	0.21328147		1240	1.34
+13	1	0.045932297		75	2.09
+14	1	0.08572209		382	1.86
+15	1	0.4447857		1266	1.23
+16	1	0.33715534		1149	1.37
+17	1	0.28432977		227	1.97
+18	1	0.0520748		383	1.84
+19	2	0.7317158		873	1.45
+20	2	0.23948067		1246	1.34
+21	2	0.70669085		417	1.62
+22	2	2000.0		1726	1.18
+23	2	0.11813475		367	1.95
+24	2	0.040790055		375	1.94
+25	2	0.15341601		378	1.92
+26	2	0.2973508		237	1.97
+27	2	0.36466062		403	1.82
+28	2	0.14815634		1152	1.37
+29	2	0.20400564		1152	1.37
+30	2	2000.0		84	2.06
+31	2	0.4741446		1284	1.23
+32	3	0.14977698		383	1.86
+33	3	0.32595897		383	1.86
+34	3	0.9572703		420	1.62
+35	3	1.0768956		876	1.45
+36	3	2000.0		1256	1.34
+37	3	0.2676182		371	1.95
+38	3	2000.0		76	2.1
+39	3	0.4473684		238	1.97
+Best Penalty Value: 73
+Best Robustness Value: 1.18
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 62
+MinimumWorkingDaysConstraint violation: 5
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 6
+Best Individual So Far penalty: 73
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 486
+MinimumWorkingDaysConstraint violation: 85
+RoomCapacityConstraint violation: 1056
+RoomStabilityConstraint violation: 74
+Best Individual So Far robustness: 1757
+Total running time is 774 seconds
+Run: 14 and Seed of the Random Object: -1160267296
+Initialization took 41 seconds
+Initial population avg eventP: 3.440547703180212
+Initial bestP: 376
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 51.0 seconds. Best P Value: 95	Average penalty: 930.325
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 93	Average penalty: 858.6
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 93	Average penalty: 747.975
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 93	Average penalty: 774.475
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 93	Average penalty: 963.425
+SAP Count: 3	SAR Count: 3	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 93	Average penalty: 738.475
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 93	Average penalty: 737.175
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 93	Average penalty: 699.825
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 93	Average penalty: 711.125
+SAP Count: 3	SAR Count: 7	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 93	Average penalty: 807.75
+SAP Count: 3	SAR Count: 8	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 93	Average penalty: 775.425
+SAP Count: 4	SAR Count: 8	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 93	Average penalty: 795.4
+SAP Count: 4	SAR Count: 9	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 93	Average penalty: 722.525
+SAP Count: 5	SAR Count: 9	SAPR Count: 0
+Iteration 14 took 51.0 seconds. Best P Value: 93	Average penalty: 705.075
+SAP Count: 5	SAR Count: 10	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 93	Average penalty: 682.875
+SAP Count: 6	SAR Count: 10	SAPR Count: 0
+Iteration 16 took 51.0 seconds. Best P Value: 80	Average penalty: 710.0
+SAP Count: 6	SAR Count: 11	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 80	Average penalty: 648.425
+SAP Count: 7	SAR Count: 11	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 80	Average penalty: 583.275
+SAP Count: 8	SAR Count: 11	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 80	Average penalty: 531.775
+SAP Count: 9	SAR Count: 11	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 80	Average penalty: 568.675
+SAP Count: 10	SAR Count: 11	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 80	Average penalty: 527.3
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 80	Average penalty: 462.55
+SAP Count: 11	SAR Count: 12	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 80	Average penalty: 488.775
+SAP Count: 12	SAR Count: 12	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 80	Average penalty: 568.825
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 80	Average penalty: 527.125
+SAP Count: 14	SAR Count: 12	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 80	Average penalty: 537.575
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 65	Average penalty: 551.0
+SAP Count: 15	SAR Count: 13	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 65	Average penalty: 558.825
+SAP Count: 16	SAR Count: 13	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 65	Average penalty: 533.2
+SAP Count: 17	SAR Count: 13	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 65	Average penalty: 510.525
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.74263364		1044	1.72
+1	1	0.16961175		98	2.4
+2	1	0.053542957		80	2.49
+3	1	0.70089316		605	1.76
+4	1	0.3995276		1180	1.48
+5	1	0.090943314		82	2.46
+6	1	0.5982433		373	2.17
+7	1	0.43524507		170	2.35
+8	1	2000.0		65	2.6
+9	1	1000.0124		1194	1.4
+10	1	0.54715824		375	1.85
+11	1	1000.06665		1194	1.4
+12	1	0.07818128		65	2.6
+13	1	0.10495276		78	2.52
+14	2	0.6314821		383	1.85
+15	2	2000.0		1182	1.48
+16	2	0.48332775		177	2.35
+17	2	0.80848294		1045	1.72
+18	2	2000.0		84	2.46
+19	2	0.73556745		608	1.76
+20	2	0.6978179		374	2.17
+21	2	0.19694436		101	2.4
+22	3	0.12814063		80	2.52
+23	3	2000.0		73	2.6
+24	3	0.4078847		1183	1.48
+25	3	2000.0		1206	1.4
+26	3	0.6387982		179	2.35
+27	3	0.3420197		384	1.85
+28	3	0.59760225		383	1.93
+29	3	0.73907036		1046	1.72
+30	3	0.033333335		610	1.76
+31	3	0.38481906		610	1.76
+32	3	0.27447042		610	1.76
+33	3	0.12030009		86	2.46
+34	3	0.17374963		103	2.4
+35	4	2000.0		181	2.35
+36	4	1000.7968		1185	1.48
+37	4	1000.4253		1185	1.48
+38	4	0.7778999		375	2.17
+39	4	1.5998763		385	1.85
+Best Penalty Value: 65
+Best Robustness Value: 1.4
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 46
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 65
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 352
+MinimumWorkingDaysConstraint violation: 80
+RoomCapacityConstraint violation: 682
+RoomStabilityConstraint violation: 80
+Best Individual So Far robustness: 1206
+Total running time is 942 seconds
+Run: 15 and Seed of the Random Object: 194986140
+Initialization took 46 seconds
+Initial population avg eventP: 3.165989399293286
+Initial bestP: 382
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 90	Average penalty: 824.075
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 51.0 seconds. Best P Value: 90	Average penalty: 821.0
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 90	Average penalty: 875.225
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 90	Average penalty: 847.025
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 87	Average penalty: 753.575
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 51.0 seconds. Best P Value: 84	Average penalty: 745.275
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 51.0 seconds. Best P Value: 84	Average penalty: 719.325
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 51.0 seconds. Best P Value: 84	Average penalty: 745.575
+SAP Count: 7	SAR Count: 2	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 70	Average penalty: 754.6
+SAP Count: 8	SAR Count: 2	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 70	Average penalty: 738.675
+SAP Count: 9	SAR Count: 2	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 70	Average penalty: 666.15
+SAP Count: 9	SAR Count: 3	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 70	Average penalty: 654.95
+SAP Count: 10	SAR Count: 3	SAPR Count: 0
+Iteration 13 took 51.0 seconds. Best P Value: 70	Average penalty: 703.75
+SAP Count: 10	SAR Count: 4	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 70	Average penalty: 702.4
+SAP Count: 11	SAR Count: 4	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 70	Average penalty: 679.85
+SAP Count: 12	SAR Count: 4	SAPR Count: 0
+Iteration 16 took 51.0 seconds. Best P Value: 70	Average penalty: 583.15
+SAP Count: 12	SAR Count: 5	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 70	Average penalty: 653.8
+SAP Count: 12	SAR Count: 6	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 70	Average penalty: 597.975
+SAP Count: 13	SAR Count: 6	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 70	Average penalty: 565.15
+SAP Count: 14	SAR Count: 6	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 70	Average penalty: 612.65
+SAP Count: 14	SAR Count: 7	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 70	Average penalty: 607.925
+SAP Count: 15	SAR Count: 7	SAPR Count: 0
+Iteration 22 took 51.0 seconds. Best P Value: 70	Average penalty: 608.675
+SAP Count: 15	SAR Count: 8	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 70	Average penalty: 625.35
+SAP Count: 15	SAR Count: 9	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 70	Average penalty: 577.1
+SAP Count: 16	SAR Count: 9	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 70	Average penalty: 664.65
+SAP Count: 17	SAR Count: 9	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 70	Average penalty: 672.575
+SAP Count: 18	SAR Count: 9	SAPR Count: 0
+Iteration 27 took 51.0 seconds. Best P Value: 70	Average penalty: 658.575
+SAP Count: 19	SAR Count: 9	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 70	Average penalty: 577.725
+SAP Count: 19	SAR Count: 10	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 70	Average penalty: 694.15
+SAP Count: 19	SAR Count: 11	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 70	Average penalty: 682.775
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.19187696		412	1.88
+1	1	0.5162855		382	1.99
+2	1	0.5120334		1134	1.48
+3	1	2000.0		70	2.32
+4	1	0.43959647		719	1.86
+5	1	0.12089248		83	2.25
+6	1	0.45370662		1643	1.44
+7	1	0.5084319		772	1.62
+8	1	2000.0		1655	1.36
+9	1	0.45947686		89	2.18
+10	1	0.3742245		947	1.51
+11	1	0.08111856		79	2.29
+12	1	0.21452418		488	1.87
+13	2	0.21583332		490	1.87
+14	2	0.5029167		1136	1.48
+15	2	0.081041664		81	2.29
+16	2	2000.0		1671	1.36
+17	2	0.058541667		413	1.88
+18	2	0.13333334		413	1.88
+19	2	0.43791667		725	1.86
+20	2	0.123333335		84	2.25
+21	2	0.50895834		774	1.62
+22	2	0.29458335		383	1.99
+23	2	0.21666667		383	1.99
+24	2	2000.0		71	2.32
+25	2	0.37208334		956	1.51
+26	2	0.459375		1644	1.44
+27	2	0.45770833		95	2.18
+28	3	0.1624416		491	1.87
+29	3	0.72980917		491	1.87
+30	3	0.12782322		1137	1.48
+31	3	0.4614486		1137	1.48
+32	3	0.3713785		982	1.51
+33	3	0.51847744		775	1.62
+34	3	0.4373637		735	1.86
+35	3	2000.0		1677	1.36
+36	3	2000.0		72	2.32
+37	4	2000.0		384	1.99
+38	5	2000.0		494	1.87
+39	5	2000.0		1144	1.48
+Best Penalty Value: 70
+Best Robustness Value: 1.36
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 50
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 70
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 374
+MinimumWorkingDaysConstraint violation: 140
+RoomCapacityConstraint violation: 1074
+RoomStabilityConstraint violation: 67
+Best Individual So Far robustness: 1655
+Total running time is 1051 seconds
+Run: 16 and Seed of the Random Object: -800139380
+Initialization took 28 seconds
+Initial population avg eventP: 2.9204063604240282
+Initial bestP: 358
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 90	Average penalty: 732.975
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 82	Average penalty: 704.15
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 82	Average penalty: 649.75
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 51.0 seconds. Best P Value: 82	Average penalty: 629.8
+SAP Count: 4	SAR Count: 1	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 82	Average penalty: 643.875
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 82	Average penalty: 615.15
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 51.0 seconds. Best P Value: 82	Average penalty: 590.475
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 82	Average penalty: 567.725
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 80	Average penalty: 610.925
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 80	Average penalty: 614.725
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 79	Average penalty: 633.175
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 79	Average penalty: 665.075
+SAP Count: 7	SAR Count: 6	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 79	Average penalty: 600.35
+SAP Count: 7	SAR Count: 7	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 79	Average penalty: 642.025
+SAP Count: 7	SAR Count: 8	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 79	Average penalty: 564.1
+SAP Count: 8	SAR Count: 8	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 79	Average penalty: 593.825
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 79	Average penalty: 595.0
+SAP Count: 10	SAR Count: 8	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 79	Average penalty: 573.95
+SAP Count: 11	SAR Count: 8	SAPR Count: 0
+Iteration 19 took 51.0 seconds. Best P Value: 79	Average penalty: 581.025
+SAP Count: 12	SAR Count: 8	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 79	Average penalty: 585.55
+SAP Count: 13	SAR Count: 8	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 78	Average penalty: 613.675
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 78	Average penalty: 557.825
+SAP Count: 13	SAR Count: 10	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 78	Average penalty: 597.925
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 76	Average penalty: 599.55
+SAP Count: 15	SAR Count: 10	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 76	Average penalty: 551.075
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 76	Average penalty: 573.225
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 76	Average penalty: 575.125
+SAP Count: 16	SAR Count: 12	SAPR Count: 0
+Iteration 28 took 51.0 seconds. Best P Value: 76	Average penalty: 597.975
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 72	Average penalty: 609.85
+SAP Count: 17	SAR Count: 13	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 72	Average penalty: 551.05
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.023511931		430	1.76
+1	1	0.086664826		430	1.76
+2	1	0.46342248		764	1.6
+3	1	0.16421591		80	2.14
+4	1	0.115262076		866	1.39
+5	1	0.8414055		81	2.02
+6	1	0.19287443		718	1.71
+7	1	0.7539901		390	1.77
+8	1	0.046962596		78	2.15
+9	1	0.3708452		459	1.72
+10	1	0.051925376		866	1.39
+11	1	0.08536287		439	1.73
+12	1	0.33368564		718	1.71
+13	1	2000.0		878	1.36
+14	1	0.38581014		793	1.41
+15	1	2000.0		72	2.17
+16	2	2000.0		76	2.25
+17	2	0.26614472		79	2.15
+18	2	0.77095747		83	2.02
+19	2	0.60335964		460	1.72
+20	2	0.75273466		391	1.77
+21	2	0.22964954		844	1.54
+22	2	0.16591306		851	1.48
+23	2	0.22833641		862	1.41
+24	2	0.62562096		765	1.6
+25	2	2000.0		983	1.36
+26	2	0.18958661		946	1.37
+27	3	2000.0		79	2.16
+28	3	1.0600469		462	1.72
+29	3	0.43303472		845	1.54
+30	3	0.29663727		870	1.39
+31	3	0.6472712		721	1.71
+32	3	0.9722712		111	2.02
+33	3	2000.0		986	1.36
+34	3	0.2150634		853	1.48
+35	4	0.36472127		474	1.72
+36	4	2000.0		80	2.15
+37	4	0.97774714		448	1.76
+38	4	1.0222528		722	1.71
+39	4	2000.0		989	1.36
+Best Penalty Value: 72
+Best Robustness Value: 1.36
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 68
+MinimumWorkingDaysConstraint violation: 0
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 72
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 280
+MinimumWorkingDaysConstraint violation: 150
+RoomCapacityConstraint violation: 407
+RoomStabilityConstraint violation: 41
+Best Individual So Far robustness: 1067
+Total running time is 929 seconds
+Run: 17 and Seed of the Random Object: -1293213438
+Initialization took 44 seconds
+Initial population avg eventP: 3.1303886925795052
+Initial bestP: 331
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 331	Average penalty: 936.175
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 51.0 seconds. Best P Value: 89	Average penalty: 740.625
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 89	Average penalty: 821.9
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 89	Average penalty: 780.475
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 85	Average penalty: 818.075
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 85	Average penalty: 835.05
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 78	Average penalty: 761.6
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 78	Average penalty: 813.425
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 78	Average penalty: 766.55
+SAP Count: 3	SAR Count: 7	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 78	Average penalty: 774.325
+SAP Count: 4	SAR Count: 7	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 78	Average penalty: 720.35
+SAP Count: 5	SAR Count: 7	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 78	Average penalty: 782.625
+SAP Count: 5	SAR Count: 8	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 78	Average penalty: 741.95
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 78	Average penalty: 758.125
+SAP Count: 6	SAR Count: 9	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 78	Average penalty: 768.125
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 78	Average penalty: 709.075
+SAP Count: 7	SAR Count: 10	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 78	Average penalty: 709.575
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 51.0 seconds. Best P Value: 78	Average penalty: 702.025
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 78	Average penalty: 704.7
+SAP Count: 10	SAR Count: 10	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 70	Average penalty: 688.7
+SAP Count: 11	SAR Count: 10	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 70	Average penalty: 737.6
+SAP Count: 11	SAR Count: 11	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 70	Average penalty: 766.3
+SAP Count: 11	SAR Count: 12	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 70	Average penalty: 702.275
+SAP Count: 12	SAR Count: 12	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 70	Average penalty: 685.275
+SAP Count: 12	SAR Count: 13	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 70	Average penalty: 656.35
+SAP Count: 13	SAR Count: 13	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 70	Average penalty: 651.625
+SAP Count: 14	SAR Count: 13	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 70	Average penalty: 670.3
+SAP Count: 14	SAR Count: 14	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 70	Average penalty: 620.35
+SAP Count: 14	SAR Count: 15	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 70	Average penalty: 535.05
+SAP Count: 14	SAR Count: 16	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 70	Average penalty: 582.4
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.521083		409	1.87
+1	1	0.80256414		434	1.75
+2	1	2000.0		70	2.35
+3	1	0.50236803		75	2.21
+4	1	2000.0		969	1.38
+5	1	0.7220394		327	2.14
+6	1	0.97654897		871	1.59
+7	2	0.071250625		85	2.23
+8	2	2000.0		78	2.28
+9	2	0.06340309		82	2.26
+10	2	0.3735426		96	2.21
+11	2	0.5521674		410	1.87
+12	2	0.7297957		329	2.14
+13	2	0.16136023		435	1.75
+14	2	0.044444446		435	1.75
+15	2	0.48878923		435	1.75
+16	2	0.6143747		871	1.71
+17	2	0.14230195		874	1.64
+18	2	0.3965122		879	1.59
+19	2	2000.0		970	1.38
+20	3	0.89916766		411	1.87
+21	3	0.09365851		86	2.23
+22	3	2000.0		75	2.37
+23	3	2000.0		1541	1.48
+24	3	0.32690805		1155	1.58
+25	3	0.37566105		1213	1.5
+26	3	0.16480678		80	2.28
+27	3	0.5928001		330	2.14
+28	3	0.2675629		102	2.21
+29	3	0.6358891		874	1.67
+30	3	0.29280162		882	1.59
+31	4	1.3442388		412	1.87
+32	4	2000.0		1542	1.48
+33	4	0.21857923		1542	1.48
+34	4	0.022988506		1542	1.48
+35	4	0.29670718		331	2.14
+36	4	0.48315904		331	2.14
+37	4	2000.0		78	2.35
+38	4	1.2201338		1222	1.5
+39	5	2000.0		413	1.87
+Best Penalty Value: 70
+Best Robustness Value: 1.38
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 10
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 70
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 218
+MinimumWorkingDaysConstraint violation: 220
+RoomCapacityConstraint violation: 486
+RoomStabilityConstraint violation: 45
+Best Individual So Far robustness: 969
+Total running time is 792 seconds
+Run: 18 and Seed of the Random Object: 621018099
+Initialization took 52 seconds
+Initial population avg eventP: 3.315194346289753
+Initial bestP: 380
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 96	Average penalty: 872.3
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 51.0 seconds. Best P Value: 67	Average penalty: 764.325
+SAP Count: 3	SAR Count: 0	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 67	Average penalty: 660.4
+SAP Count: 4	SAR Count: 0	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 67	Average penalty: 740.475
+SAP Count: 5	SAR Count: 0	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 67	Average penalty: 724.75
+SAP Count: 5	SAR Count: 1	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 67	Average penalty: 782.725
+SAP Count: 6	SAR Count: 1	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 67	Average penalty: 815.675
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 67	Average penalty: 749.45
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 67	Average penalty: 690.95
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 67	Average penalty: 713.325
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 67	Average penalty: 713.75
+SAP Count: 8	SAR Count: 4	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 67	Average penalty: 672.425
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 67	Average penalty: 732.175
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 67	Average penalty: 616.55
+SAP Count: 9	SAR Count: 6	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 67	Average penalty: 600.075
+SAP Count: 9	SAR Count: 7	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 67	Average penalty: 614.825
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 67	Average penalty: 652.6
+SAP Count: 9	SAR Count: 9	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 67	Average penalty: 690.475
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 67	Average penalty: 662.75
+SAP Count: 10	SAR Count: 10	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 67	Average penalty: 652.025
+SAP Count: 10	SAR Count: 11	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 67	Average penalty: 680.25
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 67	Average penalty: 661.9
+SAP Count: 10	SAR Count: 13	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 67	Average penalty: 610.55
+SAP Count: 11	SAR Count: 13	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 65	Average penalty: 616.05
+SAP Count: 12	SAR Count: 13	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 65	Average penalty: 581.2
+SAP Count: 13	SAR Count: 13	SAPR Count: 0
+Iteration 26 took 51.0 seconds. Best P Value: 65	Average penalty: 622.875
+SAP Count: 14	SAR Count: 13	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 65	Average penalty: 615.475
+SAP Count: 14	SAR Count: 14	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 65	Average penalty: 671.975
+SAP Count: 14	SAR Count: 15	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 65	Average penalty: 607.1
+SAP Count: 14	SAR Count: 16	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 65	Average penalty: 583.375
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.14182164		381	2.13
+1	1	0.37984818		380	2.18
+2	1	0.16519924		67	2.37
+3	1	0.072371915		381	2.13
+4	1	0.4254649		84	2.29
+5	1	0.26963946		402	2.01
+6	1	0.49149904		1210	1.58
+7	1	2000.0		1615	1.57
+8	1	0.22440228		416	1.92
+9	1	0.27597722		531	1.89
+10	1	0.41783682		630	1.7
+11	1	2000.0		65	2.42
+12	1	0.51537		1072	1.69
+13	1	0.28740036		552	1.76
+14	2	0.524031		1102	1.69
+15	2	2000.0		69	2.37
+16	2	0.11098191		69	2.37
+17	2	0.09654393		403	2.01
+18	2	0.55478036		402	2.02
+19	2	0.2878553		533	1.89
+20	2	0.65261626		86	2.29
+21	2	0.48268735		1211	1.58
+22	2	0.37861755		632	1.7
+23	2	0.0628876		632	1.7
+24	2	0.3014535		554	1.76
+25	2	0.15058139		418	1.92
+26	2	0.122189924		416	1.95
+27	2	2000.0		1617	1.57
+28	3	0.533796		404	2.01
+29	3	0.22499336		404	2.01
+30	3	2000.0		67	2.42
+31	3	0.47257555		1213	1.58
+32	3	0.60279894		584	1.76
+33	3	0.6996321		87	2.29
+34	3	2000.0		1618	1.57
+35	3	0.4101718		534	1.89
+36	3	0.6173095		1104	1.69
+37	4	2000.0		1229	1.58
+38	4	2.0		88	2.29
+39	4	2000.0		73	2.37
+Best Penalty Value: 65
+Best Robustness Value: 1.57
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 38
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 7
+Best Individual So Far penalty: 65
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 368
+MinimumWorkingDaysConstraint violation: 75
+RoomCapacityConstraint violation: 1113
+RoomStabilityConstraint violation: 59
+Best Individual So Far robustness: 1635
+Total running time is 802 seconds
+Run: 19 and Seed of the Random Object: 1267534624
+Initialization took 37 seconds
+Initial population avg eventP: 3.148409893992933
+Initial bestP: 376
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 376	Average penalty: 838.65
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 51.0 seconds. Best P Value: 83	Average penalty: 804.8
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 83	Average penalty: 761.225
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 83	Average penalty: 730.55
+SAP Count: 1	SAR Count: 4	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 83	Average penalty: 702.325
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 83	Average penalty: 702.325
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 83	Average penalty: 731.025
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 74	Average penalty: 702.425
+SAP Count: 4	SAR Count: 5	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 74	Average penalty: 647.4
+SAP Count: 5	SAR Count: 5	SAPR Count: 0
+Iteration 10 took 50.0 seconds. Best P Value: 74	Average penalty: 665.275
+SAP Count: 5	SAR Count: 6	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 74	Average penalty: 641.6
+SAP Count: 6	SAR Count: 6	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 74	Average penalty: 668.7
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 74	Average penalty: 669.525
+SAP Count: 7	SAR Count: 7	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 74	Average penalty: 636.575
+SAP Count: 7	SAR Count: 8	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 74	Average penalty: 725.85
+SAP Count: 8	SAR Count: 8	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 74	Average penalty: 619.325
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 70	Average penalty: 604.275
+SAP Count: 9	SAR Count: 9	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 70	Average penalty: 630.5
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 70	Average penalty: 589.625
+SAP Count: 9	SAR Count: 11	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 70	Average penalty: 617.0
+SAP Count: 9	SAR Count: 12	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 70	Average penalty: 629.4
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 70	Average penalty: 704.725
+SAP Count: 10	SAR Count: 13	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 70	Average penalty: 735.325
+SAP Count: 10	SAR Count: 14	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 70	Average penalty: 755.375
+SAP Count: 10	SAR Count: 15	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 70	Average penalty: 695.325
+SAP Count: 11	SAR Count: 15	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 70	Average penalty: 688.325
+SAP Count: 11	SAR Count: 16	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 70	Average penalty: 705.15
+SAP Count: 11	SAR Count: 17	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 70	Average penalty: 690.8
+SAP Count: 11	SAR Count: 18	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 70	Average penalty: 682.8
+SAP Count: 12	SAR Count: 18	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 70	Average penalty: 632.125
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.0		456	1.9
+1	1	0.11553063		415	2.01
+2	1	0.16044004		456	1.9
+3	1	0.39747196		372	2.17
+4	1	0.15019844		407	2.04
+5	1	0.066747196		437	1.91
+6	1	0.2738913		584	1.85
+7	1	0.11898188		425	1.94
+8	1	0.4257032		1028	1.58
+9	1	0.1836497		1224	1.37
+10	1	0.026393441		456	1.9
+11	1	2000.0		70	2.26
+12	1	0.23373598		940	1.62
+13	1	2000.0		1229	1.26
+14	1	0.27769628		588	1.74
+15	1	0.16019845		380	2.13
+16	1	0.3791113		1190	1.41
+17	1	0.30590165		732	1.7
+18	1	0.25946507		873	1.68
+19	2	0.2087275		875	1.68
+20	2	0.29964906		782	1.7
+21	2	2000.0		1233	1.26
+22	2	0.28469637		439	1.91
+23	2	0.27975282		585	1.85
+24	2	0.14090632		419	2.01
+25	2	0.26544857		1225	1.37
+26	2	0.22211628		942	1.62
+27	2	0.19273727		1225	1.37
+28	2	0.3719408		85	2.26
+29	2	0.46520445		1030	1.58
+30	2	0.30257094		589	1.74
+31	2	0.10768996		85	2.26
+32	2	0.1337809		409	2.04
+33	2	0.37538907		383	2.15
+34	2	0.11975893		387	2.13
+35	2	2000.0		73	2.39
+36	3	2000.0		786	1.7
+37	3	2000.0		593	1.74
+38	4	2000.0		790	1.7
+39	4	2000.0		88	2.26
+Best Penalty Value: 70
+Best Robustness Value: 1.26
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 56
+MinimumWorkingDaysConstraint violation: 10
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 70
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 392
+MinimumWorkingDaysConstraint violation: 110
+RoomCapacityConstraint violation: 643
+RoomStabilityConstraint violation: 84
+Best Individual So Far robustness: 1242
+Total running time is 685 seconds
+Run: 20 and Seed of the Random Object: 1263843493
+Initialization took 33 seconds
+Initial population avg eventP: 3.101236749116608
+Initial bestP: 363
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 363	Average penalty: 877.925
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 363	Average penalty: 856.1
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 51.0 seconds. Best P Value: 70	Average penalty: 738.3
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 70	Average penalty: 774.125
+SAP Count: 2	SAR Count: 3	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 70	Average penalty: 713.175
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 70	Average penalty: 635.925
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 70	Average penalty: 628.0
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 70	Average penalty: 635.325
+SAP Count: 4	SAR Count: 5	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 70	Average penalty: 593.425
+SAP Count: 5	SAR Count: 5	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 70	Average penalty: 663.4
+SAP Count: 6	SAR Count: 5	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 70	Average penalty: 654.95
+SAP Count: 6	SAR Count: 6	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 70	Average penalty: 666.225
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 70	Average penalty: 707.85
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 70	Average penalty: 796.2
+SAP Count: 7	SAR Count: 8	SAPR Count: 0
+Iteration 15 took 51.0 seconds. Best P Value: 70	Average penalty: 705.45
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 70	Average penalty: 633.5
+SAP Count: 8	SAR Count: 9	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 70	Average penalty: 654.925
+SAP Count: 9	SAR Count: 9	SAPR Count: 0
+Iteration 18 took 51.0 seconds. Best P Value: 70	Average penalty: 643.425
+SAP Count: 10	SAR Count: 9	SAPR Count: 0
+Iteration 19 took 51.0 seconds. Best P Value: 70	Average penalty: 634.575
+SAP Count: 11	SAR Count: 9	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 70	Average penalty: 675.575
+SAP Count: 11	SAR Count: 10	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 70	Average penalty: 673.85
+SAP Count: 12	SAR Count: 10	SAPR Count: 0
+Iteration 22 took 51.0 seconds. Best P Value: 70	Average penalty: 612.05
+SAP Count: 13	SAR Count: 10	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 70	Average penalty: 606.2
+SAP Count: 13	SAR Count: 11	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 70	Average penalty: 616.7
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 70	Average penalty: 567.025
+SAP Count: 13	SAR Count: 13	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 70	Average penalty: 678.0
+SAP Count: 14	SAR Count: 13	SAPR Count: 0
+Iteration 27 took 51.0 seconds. Best P Value: 66	Average penalty: 501.1
+SAP Count: 15	SAR Count: 13	SAPR Count: 0
+Iteration 28 took 51.0 seconds. Best P Value: 66	Average penalty: 545.575
+SAP Count: 16	SAR Count: 13	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 66	Average penalty: 583.525
+SAP Count: 17	SAR Count: 13	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 66	Average penalty: 534.1
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.21059999		367	1.83
+1	1	0.0041608876		361	2.01
+2	1	0.3615349		361	2.01
+3	1	0.061758358		411	1.82
+4	1	0.15275851		416	1.8
+5	1	0.10230133		78	2.17
+6	1	2000.0		1508	1.18
+7	1	0.98177683		651	1.45
+8	1	0.26485848		613	1.57
+9	1	2000.0		66	2.26
+10	1	0.21880619		456	1.59
+11	1	0.22218369		431	1.67
+12	1	0.1388889		361	2.01
+13	2	1000.0463		70	2.26
+14	2	0.5843015		369	1.83
+15	2	0.59855026		79	2.21
+16	2	1000.00604		70	2.26
+17	2	0.24446431		417	1.8
+18	2	0.059949357		412	1.82
+19	2	0.34567073		459	1.59
+20	2	0.9958296		1513	1.35
+21	2	2000.0		1562	1.18
+22	2	0.9286565		615	1.57
+23	3	2000.0		80	2.17
+24	3	0.26395178		421	1.8
+25	3	0.00538358		413	1.82
+26	3	0.039037753		413	1.82
+27	3	0.02020202		413	1.82
+28	3	0.0		413	1.82
+29	3	0.5776269		370	1.83
+30	3	0.046446975		460	1.59
+31	3	0.0		460	1.59
+32	3	0.31710103		460	1.59
+33	3	2000.0		1566	1.18
+34	3	1.0332395		1519	1.35
+35	3	0.9550757		616	1.57
+36	4	2000.0		89	2.17
+37	4	2000.0		1572	1.18
+38	4	2.0		363	2.01
+39	5	2000.0		90	2.17
+Best Penalty Value: 66
+Best Robustness Value: 1.18
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 50
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 1
+Best Individual So Far penalty: 66
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 482
+MinimumWorkingDaysConstraint violation: 100
+RoomCapacityConstraint violation: 858
+RoomStabilityConstraint violation: 68
+Best Individual So Far robustness: 1663
+Total running time is 940 seconds
+Run: 21 and Seed of the Random Object: -1083480715
+Initialization took 52 seconds
+Initial population avg eventP: 3.608745583038869
+Initial bestP: 359
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 95	Average penalty: 1026.125
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 72	Average penalty: 974.675
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 72	Average penalty: 1003.175
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 72	Average penalty: 923.375
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 72	Average penalty: 859.525
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 70	Average penalty: 889.725
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 70	Average penalty: 879.925
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 70	Average penalty: 893.45
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 70	Average penalty: 925.3
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 70	Average penalty: 890.5
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 70	Average penalty: 791.675
+SAP Count: 7	SAR Count: 5	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 70	Average penalty: 755.525
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 70	Average penalty: 807.275
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 70	Average penalty: 813.375
+SAP Count: 8	SAR Count: 7	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 70	Average penalty: 854.85
+SAP Count: 8	SAR Count: 8	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 70	Average penalty: 844.55
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 70	Average penalty: 872.8
+SAP Count: 10	SAR Count: 8	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 61	Average penalty: 792.35
+SAP Count: 10	SAR Count: 9	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 61	Average penalty: 843.05
+SAP Count: 11	SAR Count: 9	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 61	Average penalty: 816.725
+SAP Count: 12	SAR Count: 9	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 61	Average penalty: 824.725
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 61	Average penalty: 761.525
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 61	Average penalty: 699.125
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 61	Average penalty: 843.15
+SAP Count: 15	SAR Count: 10	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 61	Average penalty: 793.45
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 61	Average penalty: 730.55
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 61	Average penalty: 635.575
+SAP Count: 15	SAR Count: 13	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 61	Average penalty: 597.85
+SAP Count: 15	SAR Count: 14	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 61	Average penalty: 515.5
+SAP Count: 16	SAR Count: 14	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 61	Average penalty: 574.075
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.410845		359	2.16
+1	1	0.5383829		1204	1.75
+2	1	0.15166572		70	2.56
+3	1	0.7145911		845	1.86
+4	1	0.18864027		71	2.44
+5	1	0.1102302		359	2.16
+6	1	2000.0		61	2.59
+7	1	0.48335716		78	2.37
+8	1	0.27369887		1401	1.73
+9	1	0.5395696		411	1.88
+10	1	0.30789247		365	2.05
+11	1	0.1767944		1404	1.62
+12	1	2000.0		1406	1.55
+13	2	0.72150356		79	2.37
+14	2	0.6470129		412	1.88
+15	2	0.3361455		848	1.86
+16	2	0.5124047		848	1.86
+17	2	0.87467194		367	2.05
+18	2	2000.0		62	2.59
+19	2	0.2767779		73	2.44
+20	2	2000.0		1205	1.75
+21	3	0.3299273		371	2.14
+22	3	0.66363794		87	2.37
+23	3	2000.0		1420	1.62
+24	3	1000.2268		63	2.59
+25	3	1000.0177		63	2.59
+26	3	1.0277066		418	1.88
+27	3	0.41914776		362	2.16
+28	3	0.027250834		362	2.16
+29	3	1.0064347		1220	1.75
+30	4	2000.0		1430	1.62
+31	4	0.76611435		372	2.14
+32	4	0.3134689		422	1.88
+33	4	0.3391232		422	1.88
+34	4	0.2916902		1411	1.73
+35	4	0.7282684		853	1.86
+36	4	0.5498023		1222	1.75
+37	4	2000.0		74	2.56
+38	4	0.6665725		90	2.37
+39	5	2000.0		373	2.14
+Best Penalty Value: 61
+Best Robustness Value: 1.55
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 44
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 61
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 354
+MinimumWorkingDaysConstraint violation: 95
+RoomCapacityConstraint violation: 893
+RoomStabilityConstraint violation: 64
+Best Individual So Far robustness: 1406
+Total running time is 900 seconds
+Run: 22 and Seed of the Random Object: -1141557724
+Initialization took 57 seconds
+Initial population avg eventP: 3.3636042402826853
+Initial bestP: 343
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 343	Average penalty: 979.5
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 343	Average penalty: 899.9
+SAP Count: 0	SAR Count: 3	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 343	Average penalty: 808.625
+SAP Count: 0	SAR Count: 4	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 343	Average penalty: 884.875
+SAP Count: 0	SAR Count: 5	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 343	Average penalty: 866.8
+SAP Count: 0	SAR Count: 6	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 343	Average penalty: 900.65
+SAP Count: 0	SAR Count: 7	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 343	Average penalty: 824.1
+SAP Count: 0	SAR Count: 8	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 343	Average penalty: 812.8
+SAP Count: 0	SAR Count: 9	SAPR Count: 0
+Iteration 9 took 0.0 seconds. Best P Value: 343	Average penalty: 822.75
+SAP Count: 0	SAR Count: 10	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 343	Average penalty: 803.1
+SAP Count: 1	SAR Count: 10	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 82	Average penalty: 765.025
+SAP Count: 1	SAR Count: 11	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 82	Average penalty: 744.2
+SAP Count: 1	SAR Count: 12	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 82	Average penalty: 754.1
+SAP Count: 2	SAR Count: 12	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 82	Average penalty: 689.85
+SAP Count: 2	SAR Count: 13	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 82	Average penalty: 741.25
+SAP Count: 3	SAR Count: 13	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 79	Average penalty: 688.6
+SAP Count: 4	SAR Count: 13	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 78	Average penalty: 719.675
+SAP Count: 4	SAR Count: 14	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 78	Average penalty: 638.275
+SAP Count: 4	SAR Count: 15	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 78	Average penalty: 698.175
+SAP Count: 5	SAR Count: 15	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 78	Average penalty: 673.4
+SAP Count: 5	SAR Count: 16	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 78	Average penalty: 607.45
+SAP Count: 5	SAR Count: 17	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 78	Average penalty: 655.5
+SAP Count: 5	SAR Count: 18	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 78	Average penalty: 564.0
+SAP Count: 6	SAR Count: 18	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 78	Average penalty: 534.45
+SAP Count: 7	SAR Count: 18	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 78	Average penalty: 555.375
+SAP Count: 7	SAR Count: 19	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 78	Average penalty: 520.925
+SAP Count: 7	SAR Count: 20	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 78	Average penalty: 515.825
+SAP Count: 8	SAR Count: 20	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 78	Average penalty: 524.4
+SAP Count: 9	SAR Count: 20	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 78	Average penalty: 558.0
+SAP Count: 10	SAR Count: 20	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 78	Average penalty: 544.925
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.55792433		343	2.14
+1	1	0.3073061		403	2.02
+2	1	0.4562008		490	1.95
+3	1	0.20487075		400	2.13
+4	1	2000.0		78	2.37
+5	1	0.4024978		917	1.61
+6	1	2000.0		1020	1.52
+7	1	0.24477331		796	1.66
+8	1	0.55190456		85	2.32
+9	1	0.38452604		764	1.68
+10	1	0.6085175		733	1.93
+11	2	2000.0		1022	1.52
+12	2	0.44884807		492	1.95
+13	2	0.29324228		404	2.02
+14	2	0.19337396		402	2.13
+15	2	0.5396502		346	2.14
+16	2	0.14923146		799	1.66
+17	2	0.0910002		799	1.66
+18	2	0.5862049		734	1.93
+19	2	0.36563224		765	1.68
+20	2	0.3903255		919	1.61
+21	2	0.53482574		90	2.32
+22	2	2000.0		79	2.43
+23	2	0.13254403		80	2.37
+24	3	0.6804511		348	2.14
+25	3	0.4583781		496	1.95
+26	3	0.3851593		408	2.02
+27	3	0.29761904		735	1.93
+28	3	0.03329753		735	1.93
+29	3	0.28052273		735	1.93
+30	3	0.58073753		766	1.68
+31	3	2000.0		93	2.36
+32	3	2000.0		1024	1.52
+33	3	0.5358038		107	2.32
+34	3	0.46759754		921	1.61
+35	4	2000.0		800	1.66
+36	4	2000.0		350	2.14
+37	4	0.38555557		411	2.02
+38	4	0.33694446		411	2.02
+39	4	1.6144445		497	1.95
+Best Penalty Value: 78
+Best Robustness Value: 1.52
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 48
+MinimumWorkingDaysConstraint violation: 25
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 78
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 370
+MinimumWorkingDaysConstraint violation: 70
+RoomCapacityConstraint violation: 511
+RoomStabilityConstraint violation: 69
+Best Individual So Far robustness: 1025
+Total running time is 604 seconds
+Run: 23 and Seed of the Random Object: -176923843
+Initialization took 44 seconds
+Initial population avg eventP: 3.2424028268551237
+Initial bestP: 385
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 81	Average penalty: 820.15
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 81	Average penalty: 882.6
+SAP Count: 3	SAR Count: 0	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 81	Average penalty: 684.775
+SAP Count: 4	SAR Count: 0	SAPR Count: 0
+Iteration 4 took 51.0 seconds. Best P Value: 81	Average penalty: 699.225
+SAP Count: 5	SAR Count: 0	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 81	Average penalty: 705.725
+SAP Count: 5	SAR Count: 1	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 81	Average penalty: 828.2
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 81	Average penalty: 831.825
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 81	Average penalty: 819.05
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 81	Average penalty: 900.65
+SAP Count: 6	SAR Count: 4	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 81	Average penalty: 985.775
+SAP Count: 7	SAR Count: 4	SAPR Count: 0
+Iteration 11 took 51.0 seconds. Best P Value: 76	Average penalty: 950.5
+SAP Count: 8	SAR Count: 4	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 76	Average penalty: 780.1
+SAP Count: 8	SAR Count: 5	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 76	Average penalty: 754.925
+SAP Count: 8	SAR Count: 6	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 76	Average penalty: 770.7
+SAP Count: 9	SAR Count: 6	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 76	Average penalty: 692.75
+SAP Count: 9	SAR Count: 7	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 76	Average penalty: 706.8
+SAP Count: 10	SAR Count: 7	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 76	Average penalty: 703.825
+SAP Count: 11	SAR Count: 7	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 68	Average penalty: 596.65
+SAP Count: 11	SAR Count: 8	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 68	Average penalty: 601.525
+SAP Count: 11	SAR Count: 9	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 68	Average penalty: 606.75
+SAP Count: 12	SAR Count: 9	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 68	Average penalty: 555.025
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 68	Average penalty: 546.275
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 68	Average penalty: 530.7
+SAP Count: 14	SAR Count: 10	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 68	Average penalty: 600.1
+SAP Count: 15	SAR Count: 10	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 68	Average penalty: 627.775
+SAP Count: 16	SAR Count: 10	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 68	Average penalty: 553.475
+SAP Count: 16	SAR Count: 11	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 68	Average penalty: 588.3
+SAP Count: 17	SAR Count: 11	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 68	Average penalty: 493.075
+SAP Count: 18	SAR Count: 11	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 68	Average penalty: 520.8
+SAP Count: 19	SAR Count: 11	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 68	Average penalty: 571.725
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.15542893		87	2.15
+1	1	0.30971813		1311	1.46
+2	1	0.71597105		98	2.1
+3	1	2000.0		1578	1.43
+4	1	2000.0		68	2.29
+5	1	0.019574927		378	1.7
+6	1	0.87737566		896	1.48
+7	1	0.6505467		378	1.7
+8	1	0.200077		1311	1.46
+9	1	0.5988603		390	1.69
+10	1	0.17537348		74	2.22
+11	2	0.6397552		395	1.69
+12	2	0.7672982		395	1.69
+13	2	2000.0		88	2.15
+14	2	0.5774927		100	2.1
+15	2	0.26729822		100	2.1
+16	2	1.1552091		914	1.48
+17	2	2000.0		1579	1.43
+18	3	0.21743482		81	2.33
+19	3	2000.0		76	2.34
+20	3	0.8787921		89	2.15
+21	3	0.884082		980	1.48
+22	3	0.68732464		378	1.71
+23	3	0.6530132		379	1.7
+24	3	2000.0		1580	1.43
+25	3	0.45388123		1312	1.46
+26	4	0.21005368		84	2.33
+27	4	0.23331179		397	1.69
+28	4	2000.0		76	2.37
+29	4	0.04783721		78	2.34
+30	4	0.39703196		397	1.69
+31	4	0.86704236		90	2.15
+32	4	0.8497006		982	1.48
+33	4	0.20423564		1313	1.46
+34	4	0.25054106		1313	1.46
+35	4	2000.0		1590	1.43
+36	4	0.6921358		382	1.7
+37	5	2000.0		77	2.37
+38	5	2000.0		990	1.48
+39	5	1.9641016		85	2.33
+Best Penalty Value: 68
+Best Robustness Value: 1.43
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 42
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 6
+Best Individual So Far penalty: 68
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 400
+MinimumWorkingDaysConstraint violation: 85
+RoomCapacityConstraint violation: 1024
+RoomStabilityConstraint violation: 69
+Best Individual So Far robustness: 1748
+Total running time is 1045 seconds
+Run: 24 and Seed of the Random Object: -1258512023
+Initialization took 48 seconds
+Initial population avg eventP: 3.063780918727915
+Initial bestP: 344
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 51.0 seconds. Best P Value: 76	Average penalty: 840.05
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 76	Average penalty: 973.625
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 51.0 seconds. Best P Value: 76	Average penalty: 936.575
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 76	Average penalty: 991.275
+SAP Count: 4	SAR Count: 1	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 76	Average penalty: 900.1
+SAP Count: 5	SAR Count: 1	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 67	Average penalty: 932.35
+SAP Count: 6	SAR Count: 1	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 67	Average penalty: 783.05
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 67	Average penalty: 742.0
+SAP Count: 7	SAR Count: 2	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 67	Average penalty: 788.975
+SAP Count: 8	SAR Count: 2	SAPR Count: 0
+Iteration 10 took 50.0 seconds. Best P Value: 67	Average penalty: 764.275
+SAP Count: 8	SAR Count: 3	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 67	Average penalty: 825.725
+SAP Count: 9	SAR Count: 3	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 67	Average penalty: 746.6
+SAP Count: 9	SAR Count: 4	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 67	Average penalty: 717.8
+SAP Count: 10	SAR Count: 4	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 67	Average penalty: 695.05
+SAP Count: 10	SAR Count: 5	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 67	Average penalty: 623.55
+SAP Count: 10	SAR Count: 6	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 67	Average penalty: 562.15
+SAP Count: 10	SAR Count: 7	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 67	Average penalty: 567.775
+SAP Count: 10	SAR Count: 8	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 67	Average penalty: 551.85
+SAP Count: 11	SAR Count: 8	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 67	Average penalty: 554.775
+SAP Count: 12	SAR Count: 8	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 67	Average penalty: 565.875
+SAP Count: 12	SAR Count: 9	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 67	Average penalty: 592.625
+SAP Count: 12	SAR Count: 10	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 67	Average penalty: 499.25
+SAP Count: 13	SAR Count: 10	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 67	Average penalty: 527.65
+SAP Count: 13	SAR Count: 11	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 67	Average penalty: 509.85
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 67	Average penalty: 541.45
+SAP Count: 13	SAR Count: 13	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 67	Average penalty: 603.75
+SAP Count: 14	SAR Count: 13	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 67	Average penalty: 602.5
+SAP Count: 14	SAR Count: 14	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 67	Average penalty: 650.95
+SAP Count: 15	SAR Count: 14	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 67	Average penalty: 559.475
+SAP Count: 16	SAR Count: 14	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 67	Average penalty: 608.65
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.25420853		344	2.07
+1	1	0.7480069		366	1.73
+2	1	2000.0		67	2.36
+3	1	0.25635296		358	1.91
+4	1	0.12987635		345	2.05
+5	1	1.2010311		932	1.3
+6	1	2000.0		2126	1.06
+7	1	0.76450855		2047	1.23
+8	1	0.35760823		75	2.21
+9	2	2000.0		69	2.36
+10	2	0.33462653		367	1.73
+11	2	0.0		367	1.73
+12	2	0.41232845		367	1.73
+13	2	0.2548327		359	1.91
+14	2	0.28284252		349	2.05
+15	2	0.06539574		76	2.32
+16	2	0.03414435		75	2.33
+17	2	0.1689934		83	2.25
+18	2	0.76706475		2048	1.23
+19	2	1.1951265		935	1.3
+20	2	2000.0		2143	1.06
+21	2	0.28210074		251	2.21
+22	3	0.48412699		360	1.91
+23	3	0.27986982		360	1.91
+24	3	0.13395762		360	1.91
+25	3	0.059274755		84	2.29
+26	3	0.2959421		85	2.25
+27	3	0.14983064		345	2.07
+28	3	0.24785814		345	2.07
+29	3	2000.0		2228	1.06
+30	3	1.3248987		962	1.3
+31	3	0.7790396		2049	1.23
+32	3	2000.0		77	2.32
+33	4	0.090029456		78	2.32
+34	4	1.988044		87	2.25
+35	4	2000.0		966	1.3
+36	4	2000.0		76	2.33
+37	5	2000.0		368	1.73
+38	5	2000.0		993	1.3
+39	6	2000.0		374	1.73
+Best Penalty Value: 67
+Best Robustness Value: 1.06
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 50
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 2
+Best Individual So Far penalty: 67
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 400
+MinimumWorkingDaysConstraint violation: 75
+RoomCapacityConstraint violation: 1563
+RoomStabilityConstraint violation: 88
+Best Individual So Far robustness: 2126
+Total running time is 897 seconds
+Run: 25 and Seed of the Random Object: -1297046139
+Initialization took 24 seconds
+Initial population avg eventP: 2.7689045936395758
+Initial bestP: 345
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 63	Average penalty: 673.3
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 63	Average penalty: 678.15
+SAP Count: 1	SAR Count: 2	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 63	Average penalty: 835.95
+SAP Count: 1	SAR Count: 3	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 63	Average penalty: 780.7
+SAP Count: 1	SAR Count: 4	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 63	Average penalty: 834.85
+SAP Count: 2	SAR Count: 4	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 63	Average penalty: 810.125
+SAP Count: 2	SAR Count: 5	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 63	Average penalty: 817.95
+SAP Count: 2	SAR Count: 6	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 63	Average penalty: 836.775
+SAP Count: 3	SAR Count: 6	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 63	Average penalty: 903.525
+SAP Count: 4	SAR Count: 6	SAPR Count: 0
+Iteration 10 took 50.0 seconds. Best P Value: 63	Average penalty: 652.875
+SAP Count: 4	SAR Count: 7	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 63	Average penalty: 640.35
+SAP Count: 5	SAR Count: 7	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 63	Average penalty: 648.15
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 63	Average penalty: 630.175
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 63	Average penalty: 673.7
+SAP Count: 6	SAR Count: 9	SAPR Count: 0
+Iteration 15 took 1.0 seconds. Best P Value: 63	Average penalty: 616.925
+SAP Count: 6	SAR Count: 10	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 63	Average penalty: 638.925
+SAP Count: 6	SAR Count: 11	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 63	Average penalty: 655.7
+SAP Count: 7	SAR Count: 11	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 63	Average penalty: 633.025
+SAP Count: 7	SAR Count: 12	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 63	Average penalty: 655.0
+SAP Count: 8	SAR Count: 12	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 63	Average penalty: 647.725
+SAP Count: 9	SAR Count: 12	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 63	Average penalty: 633.85
+SAP Count: 10	SAR Count: 12	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 63	Average penalty: 660.05
+SAP Count: 11	SAR Count: 12	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 62	Average penalty: 599.425
+SAP Count: 12	SAR Count: 12	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 62	Average penalty: 568.0
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 62	Average penalty: 504.65
+SAP Count: 13	SAR Count: 13	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 62	Average penalty: 577.4
+SAP Count: 14	SAR Count: 13	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 62	Average penalty: 567.25
+SAP Count: 14	SAR Count: 14	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 62	Average penalty: 536.575
+SAP Count: 15	SAR Count: 14	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 62	Average penalty: 554.625
+SAP Count: 15	SAR Count: 15	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 62	Average penalty: 492.675
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.36295986		345	1.85
+1	1	0.27366322		380	1.72
+2	1	0.13666944		63	2.04
+3	1	0.09779446		431	1.62
+4	1	0.20958206		444	1.59
+5	1	0.35881755		629	1.58
+6	1	2000.0		62	2.14
+7	1	0.06112501		66	2.02
+8	1	0.4215828		83	2.0
+9	1	0.6615142		741	1.49
+10	1	2000.0		1261	1.24
+11	1	0.19585766		345	1.85
+12	1	0.7114725		1209	1.42
+13	1	0.15364656		420	1.66
+14	2	0.21680242		421	1.66
+15	2	0.26844195		1210	1.42
+16	2	2000.0		1262	1.24
+17	2	0.47179407		1210	1.42
+18	2	0.37896827		631	1.58
+19	2	0.62896824		104	2.0
+20	2	0.08258145		77	2.02
+21	2	2000.0		65	2.04
+22	2	0.10838555		446	1.59
+23	2	0.16705306		446	1.59
+24	2	0.58141184		381	1.72
+25	2	0.075		381	1.72
+26	2	0.0		381	1.72
+27	2	0.033416875		381	1.72
+28	2	0.68370926		750	1.49
+29	3	0.3996732		346	1.85
+30	3	0.6739379		346	1.85
+31	3	0.0		346	1.85
+32	3	0.939134		422	1.66
+33	3	0.4610294		641	1.58
+34	3	2000.0		129	2.0
+35	3	0.46535948		641	1.58
+36	3	2000.0		849	1.49
+37	4	2000.0		65	2.14
+38	4	2000.0		1211	1.42
+39	4	2.0		86	2.02
+Best Penalty Value: 62
+Best Robustness Value: 1.24
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 48
+MinimumWorkingDaysConstraint violation: 10
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 4
+Best Individual So Far penalty: 62
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 394
+MinimumWorkingDaysConstraint violation: 80
+RoomCapacityConstraint violation: 711
+RoomStabilityConstraint violation: 76
+Best Individual So Far robustness: 1401
+Total running time is 822 seconds
+Run: 26 and Seed of the Random Object: -22998662
+Initialization took 35 seconds
+Initial population avg eventP: 3.0560070671378092
+Initial bestP: 377
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 89	Average penalty: 816.55
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 69	Average penalty: 909.075
+SAP Count: 3	SAR Count: 0	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 69	Average penalty: 940.7
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 69	Average penalty: 790.475
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 69	Average penalty: 669.725
+SAP Count: 3	SAR Count: 3	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 69	Average penalty: 688.55
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 69	Average penalty: 562.825
+SAP Count: 3	SAR Count: 5	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 69	Average penalty: 545.075
+SAP Count: 4	SAR Count: 5	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 69	Average penalty: 510.975
+SAP Count: 4	SAR Count: 6	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 69	Average penalty: 530.775
+SAP Count: 4	SAR Count: 7	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 69	Average penalty: 509.275
+SAP Count: 5	SAR Count: 7	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 69	Average penalty: 500.625
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 50.0 seconds. Best P Value: 69	Average penalty: 444.85
+SAP Count: 7	SAR Count: 7	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 69	Average penalty: 454.575
+SAP Count: 8	SAR Count: 7	SAPR Count: 0
+Iteration 15 took 51.0 seconds. Best P Value: 69	Average penalty: 439.225
+SAP Count: 8	SAR Count: 8	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 69	Average penalty: 444.35
+SAP Count: 9	SAR Count: 8	SAPR Count: 0
+Iteration 17 took 51.0 seconds. Best P Value: 69	Average penalty: 447.875
+SAP Count: 9	SAR Count: 9	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 69	Average penalty: 427.175
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 69	Average penalty: 441.6
+SAP Count: 10	SAR Count: 10	SAPR Count: 0
+Iteration 20 took 50.0 seconds. Best P Value: 69	Average penalty: 462.75
+SAP Count: 11	SAR Count: 10	SAPR Count: 0
+Iteration 21 took 50.0 seconds. Best P Value: 69	Average penalty: 457.125
+SAP Count: 11	SAR Count: 11	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 69	Average penalty: 462.35
+SAP Count: 12	SAR Count: 11	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 69	Average penalty: 451.5
+SAP Count: 12	SAR Count: 12	SAPR Count: 0
+Iteration 24 took 0.0 seconds. Best P Value: 69	Average penalty: 454.425
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 69	Average penalty: 470.525
+SAP Count: 14	SAR Count: 12	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 69	Average penalty: 442.35
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 69	Average penalty: 477.775
+SAP Count: 16	SAR Count: 12	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 69	Average penalty: 480.975
+SAP Count: 16	SAR Count: 13	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 69	Average penalty: 462.125
+SAP Count: 17	SAR Count: 13	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 69	Average penalty: 443.825
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.70364803		377	1.89
+1	1	0.30849785		572	1.69
+2	1	2000.0		69	2.26
+3	1	0.15716738		384	1.76
+4	1	0.0693133		96	2.19
+5	1	0.27171674		393	1.75
+6	1	0.47454935		578	1.64
+7	1	0.06502146		70	2.25
+8	1	0.087896995		83	2.21
+9	1	2000.0		1001	1.26
+10	1	0.7756223		744	1.4
+11	1	0.6015021		101	2.16
+12	1	0.41575107		984	1.3
+13	2	0.41871607		993	1.3
+14	2	0.688837		378	1.89
+15	2	0.26877987		400	1.75
+16	2	0.78668916		746	1.4
+17	2	2000.0		1005	1.26
+18	2	0.47708347		579	1.64
+19	2	0.30275995		574	1.69
+20	2	0.60281616		123	2.16
+21	2	2000.0		71	2.25
+22	2	0.08951399		84	2.21
+23	2	0.01010101		389	1.76
+24	2	0.011777302		389	1.76
+25	2	0.14309043		389	1.76
+26	2	0.045292325		98	2.19
+27	2	0.046968617		98	2.19
+28	3	0.64009595		381	1.89
+29	3	0.17041522		381	1.89
+30	3	0.4103983		408	1.75
+31	3	0.22988208		575	1.69
+32	3	0.06597663		575	1.69
+33	3	2000.0		1006	1.26
+34	3	2000.0		75	2.25
+35	3	0.48197335		580	1.64
+36	3	0.41531315		751	1.4
+37	3	0.42609772		751	1.4
+38	3	0.6923152		86	2.21
+39	4	2000.0		416	1.75
+Best Penalty Value: 69
+Best Robustness Value: 1.26
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 46
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 3
+Best Individual So Far penalty: 69
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 398
+MinimumWorkingDaysConstraint violation: 115
+RoomCapacityConstraint violation: 422
+RoomStabilityConstraint violation: 66
+Best Individual So Far robustness: 1013
+Total running time is 935 seconds
+Run: 27 and Seed of the Random Object: 1375661292
+Initialization took 55 seconds
+Initial population avg eventP: 3.067844522968198
+Initial bestP: 351
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 95	Average penalty: 827.675
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 76	Average penalty: 829.1
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 76	Average penalty: 806.875
+SAP Count: 2	SAR Count: 2	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 76	Average penalty: 734.775
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 51.0 seconds. Best P Value: 76	Average penalty: 686.825
+SAP Count: 3	SAR Count: 3	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 76	Average penalty: 650.4
+SAP Count: 3	SAR Count: 4	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 76	Average penalty: 665.35
+SAP Count: 4	SAR Count: 4	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 76	Average penalty: 650.525
+SAP Count: 5	SAR Count: 4	SAPR Count: 0
+Iteration 9 took 51.0 seconds. Best P Value: 72	Average penalty: 604.275
+SAP Count: 5	SAR Count: 5	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 72	Average penalty: 540.475
+SAP Count: 5	SAR Count: 6	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 72	Average penalty: 586.625
+SAP Count: 6	SAR Count: 6	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 72	Average penalty: 595.45
+SAP Count: 6	SAR Count: 7	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 72	Average penalty: 688.075
+SAP Count: 6	SAR Count: 8	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 72	Average penalty: 894.375
+SAP Count: 6	SAR Count: 9	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 72	Average penalty: 894.05
+SAP Count: 7	SAR Count: 9	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 72	Average penalty: 681.875
+SAP Count: 8	SAR Count: 9	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 72	Average penalty: 941.075
+SAP Count: 8	SAR Count: 10	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 72	Average penalty: 902.925
+SAP Count: 9	SAR Count: 10	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 72	Average penalty: 912.0
+SAP Count: 10	SAR Count: 10	SAPR Count: 0
+Iteration 20 took 51.0 seconds. Best P Value: 72	Average penalty: 821.675
+SAP Count: 10	SAR Count: 11	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 72	Average penalty: 834.875
+SAP Count: 11	SAR Count: 11	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 69	Average penalty: 776.875
+SAP Count: 11	SAR Count: 12	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 69	Average penalty: 789.4
+SAP Count: 12	SAR Count: 12	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 69	Average penalty: 809.075
+SAP Count: 13	SAR Count: 12	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 69	Average penalty: 819.8
+SAP Count: 14	SAR Count: 12	SAPR Count: 0
+Iteration 26 took 50.0 seconds. Best P Value: 69	Average penalty: 942.3
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 50.0 seconds. Best P Value: 69	Average penalty: 970.1
+SAP Count: 15	SAR Count: 13	SAPR Count: 0
+Iteration 28 took 0.0 seconds. Best P Value: 69	Average penalty: 761.15
+SAP Count: 16	SAR Count: 13	SAPR Count: 0
+Iteration 29 took 51.0 seconds. Best P Value: 69	Average penalty: 702.725
+SAP Count: 16	SAR Count: 14	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 69	Average penalty: 793.075
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.064553976		386	1.91
+1	1	0.26328665		1016	1.51
+2	1	0.09005366		417	1.87
+3	1	0.1595128		420	1.78
+4	1	0.33857322		435	1.62
+5	1	0.08624527		1091	1.5
+6	1	0.16043152		343	1.94
+7	1	0.040786676		80	2.23
+8	1	2000.0		69	2.24
+9	1	0.1253601		82	2.18
+10	1	1.1899906		1185	1.32
+11	1	0.13822389		1101	1.41
+12	1	2000.0		3536	0.62
+13	1	0.22342937		108	2.04
+14	2	0.21864352		117	2.14
+15	2	2000.0		3744	0.62
+16	2	1.2166677		1193	1.32
+17	2	0.06307923		387	1.91
+18	2	0.16491596		1179	1.46
+19	2	0.32888767		437	1.62
+20	2	0.15922028		422	1.78
+21	2	0.30072513		1018	1.51
+22	2	0.08977331		419	1.87
+23	2	0.2154647		346	1.94
+24	2	0.025507906		86	2.21
+25	2	0.051647548		87	2.18
+26	2	0.022873444		84	2.22
+27	2	2000.0		70	2.24
+28	3	0.19174936		351	1.94
+29	3	0.031830058		351	1.94
+30	3	0.09385205		1195	1.32
+31	3	0.44871795		1195	1.32
+32	3	0.4588785		397	1.91
+33	3	0.5029233		1020	1.51
+34	3	0.69843876		1195	1.32
+35	3	2000.0		3745	0.62
+36	3	0.16972694		1180	1.46
+37	3	0.22423783		119	2.14
+38	3	2000.0		94	2.18
+39	4	2000.0		1023	1.51
+Best Penalty Value: 69
+Best Robustness Value: 0.62
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 38
+MinimumWorkingDaysConstraint violation: 25
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 6
+Best Individual So Far penalty: 69
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 490
+MinimumWorkingDaysConstraint violation: 160
+RoomCapacityConstraint violation: 2739
+RoomStabilityConstraint violation: 147
+Best Individual So Far robustness: 4219
+Total running time is 908 seconds
+Run: 28 and Seed of the Random Object: 1560062277
+Initialization took 44 seconds
+Initial population avg eventP: 3.0717314487632508
+Initial bestP: 352
+SAP Count: 1	SAR Count: 0	SAPR Count: 0
+Iteration 1 took 50.0 seconds. Best P Value: 96	Average penalty: 754.7
+SAP Count: 2	SAR Count: 0	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 69	Average penalty: 708.35
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 69	Average penalty: 773.3
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 51.0 seconds. Best P Value: 69	Average penalty: 646.475
+SAP Count: 3	SAR Count: 2	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 69	Average penalty: 697.775
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 69	Average penalty: 684.925
+SAP Count: 5	SAR Count: 2	SAPR Count: 0
+Iteration 7 took 50.0 seconds. Best P Value: 69	Average penalty: 694.825
+SAP Count: 6	SAR Count: 2	SAPR Count: 0
+Iteration 8 took 51.0 seconds. Best P Value: 69	Average penalty: 663.1
+SAP Count: 7	SAR Count: 2	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 69	Average penalty: 562.8
+SAP Count: 8	SAR Count: 2	SAPR Count: 0
+Iteration 10 took 50.0 seconds. Best P Value: 69	Average penalty: 558.7
+SAP Count: 8	SAR Count: 3	SAPR Count: 0
+Iteration 11 took 0.0 seconds. Best P Value: 69	Average penalty: 509.875
+SAP Count: 9	SAR Count: 3	SAPR Count: 0
+Iteration 12 took 50.0 seconds. Best P Value: 69	Average penalty: 487.375
+SAP Count: 10	SAR Count: 3	SAPR Count: 0
+Iteration 13 took 51.0 seconds. Best P Value: 69	Average penalty: 540.425
+SAP Count: 11	SAR Count: 3	SAPR Count: 0
+Iteration 14 took 50.0 seconds. Best P Value: 69	Average penalty: 520.55
+SAP Count: 12	SAR Count: 3	SAPR Count: 0
+Iteration 15 took 50.0 seconds. Best P Value: 69	Average penalty: 542.725
+SAP Count: 12	SAR Count: 4	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 69	Average penalty: 556.3
+SAP Count: 12	SAR Count: 5	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 69	Average penalty: 547.675
+SAP Count: 13	SAR Count: 5	SAPR Count: 0
+Iteration 18 took 50.0 seconds. Best P Value: 69	Average penalty: 514.425
+SAP Count: 13	SAR Count: 6	SAPR Count: 0
+Iteration 19 took 0.0 seconds. Best P Value: 69	Average penalty: 546.3
+SAP Count: 13	SAR Count: 7	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 69	Average penalty: 563.125
+SAP Count: 13	SAR Count: 8	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 69	Average penalty: 600.925
+SAP Count: 13	SAR Count: 9	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 69	Average penalty: 605.825
+SAP Count: 14	SAR Count: 9	SAPR Count: 0
+Iteration 23 took 51.0 seconds. Best P Value: 69	Average penalty: 599.575
+SAP Count: 15	SAR Count: 9	SAPR Count: 0
+Iteration 24 took 51.0 seconds. Best P Value: 69	Average penalty: 602.9
+SAP Count: 15	SAR Count: 10	SAPR Count: 0
+Iteration 25 took 0.0 seconds. Best P Value: 69	Average penalty: 580.325
+SAP Count: 15	SAR Count: 11	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 69	Average penalty: 594.525
+SAP Count: 15	SAR Count: 12	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 69	Average penalty: 566.5
+SAP Count: 16	SAR Count: 12	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 69	Average penalty: 583.3
+SAP Count: 17	SAR Count: 12	SAPR Count: 0
+Iteration 29 took 50.0 seconds. Best P Value: 69	Average penalty: 575.525
+SAP Count: 18	SAR Count: 12	SAPR Count: 0
+Iteration 30 took 50.0 seconds. Best P Value: 69	Average penalty: 583.675
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.11814848		352	1.96
+1	1	0.1794583		431	1.84
+2	1	0.1771423		377	1.85
+3	1	2000.0		69	2.33
+4	1	0.43080932		352	1.96
+5	1	0.37766984		691	1.61
+6	1	0.44081318		440	1.71
+7	1	0.6629568		1062	1.33
+8	1	0.5874614		697	1.55
+9	1	0.21162507		1075	1.19
+10	1	0.58295804		75	2.16
+11	1	2000.0		1141	1.17
+12	2	2000.0		1154	1.17
+13	2	0.09543199		77	2.27
+14	2	0.20368367		80	2.23
+15	2	0.38844		698	1.55
+16	2	0.17973025		433	1.84
+17	2	0.17743988		378	1.85
+18	2	0.3179794		378	1.85
+19	2	0.43720573		442	1.71
+20	2	0.19519022		698	1.55
+21	2	0.22187938		1081	1.19
+22	2	0.60249394		195	2.16
+23	2	2000.0		70	2.33
+24	2	0.45740554		1063	1.33
+25	2	0.3740934		692	1.61
+26	2	0.20626034		1063	1.33
+27	3	1.1226602		1095	1.19
+28	3	1000.0562		1156	1.17
+29	3	1000.0172		1156	1.17
+30	3	0.7615843		81	2.23
+31	3	0.7819164		439	1.84
+32	3	1.1649531		443	1.71
+33	3	2000.0		71	2.33
+34	4	2000.0		710	1.55
+35	4	1.1214286		82	2.23
+36	4	1.9412699		419	1.85
+37	4	2000.0		80	2.27
+38	5	2000.0		1173	1.17
+39	6	2000.0		1178	1.17
+Best Penalty Value: 69
+Best Robustness Value: 1.17
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 46
+MinimumWorkingDaysConstraint violation: 20
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 3
+Best Individual So Far penalty: 69
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 396
+MinimumWorkingDaysConstraint violation: 100
+RoomCapacityConstraint violation: 568
+RoomStabilityConstraint violation: 77
+Best Individual So Far robustness: 1302
+Total running time is 995 seconds
+Run: 29 and Seed of the Random Object: 1590442249
+Initialization took 31 seconds
+Initial population avg eventP: 2.9552120141342755
+Initial bestP: 342
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 342	Average penalty: 787.275
+SAP Count: 0	SAR Count: 2	SAPR Count: 0
+Iteration 2 took 0.0 seconds. Best P Value: 342	Average penalty: 826.6
+SAP Count: 0	SAR Count: 3	SAPR Count: 0
+Iteration 3 took 0.0 seconds. Best P Value: 342	Average penalty: 877.9
+SAP Count: 0	SAR Count: 4	SAPR Count: 0
+Iteration 4 took 0.0 seconds. Best P Value: 342	Average penalty: 817.475
+SAP Count: 0	SAR Count: 5	SAPR Count: 0
+Iteration 5 took 0.0 seconds. Best P Value: 342	Average penalty: 809.2
+SAP Count: 1	SAR Count: 5	SAPR Count: 0
+Iteration 6 took 50.0 seconds. Best P Value: 78	Average penalty: 775.525
+SAP Count: 1	SAR Count: 6	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 78	Average penalty: 739.025
+SAP Count: 1	SAR Count: 7	SAPR Count: 0
+Iteration 8 took 0.0 seconds. Best P Value: 78	Average penalty: 726.05
+SAP Count: 2	SAR Count: 7	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 78	Average penalty: 678.2
+SAP Count: 2	SAR Count: 8	SAPR Count: 0
+Iteration 10 took 0.0 seconds. Best P Value: 78	Average penalty: 621.325
+SAP Count: 3	SAR Count: 8	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 78	Average penalty: 624.05
+SAP Count: 3	SAR Count: 9	SAPR Count: 0
+Iteration 12 took 0.0 seconds. Best P Value: 78	Average penalty: 675.1
+SAP Count: 3	SAR Count: 10	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 78	Average penalty: 594.175
+SAP Count: 3	SAR Count: 11	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 78	Average penalty: 572.675
+SAP Count: 3	SAR Count: 12	SAPR Count: 0
+Iteration 15 took 0.0 seconds. Best P Value: 78	Average penalty: 573.825
+SAP Count: 3	SAR Count: 13	SAPR Count: 0
+Iteration 16 took 0.0 seconds. Best P Value: 78	Average penalty: 599.825
+SAP Count: 3	SAR Count: 14	SAPR Count: 0
+Iteration 17 took 0.0 seconds. Best P Value: 78	Average penalty: 616.95
+SAP Count: 3	SAR Count: 15	SAPR Count: 0
+Iteration 18 took 0.0 seconds. Best P Value: 78	Average penalty: 585.1
+SAP Count: 4	SAR Count: 15	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 78	Average penalty: 571.6
+SAP Count: 4	SAR Count: 16	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 78	Average penalty: 570.35
+SAP Count: 4	SAR Count: 17	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 78	Average penalty: 562.0
+SAP Count: 4	SAR Count: 18	SAPR Count: 0
+Iteration 22 took 0.0 seconds. Best P Value: 78	Average penalty: 574.825
+SAP Count: 4	SAR Count: 19	SAPR Count: 0
+Iteration 23 took 0.0 seconds. Best P Value: 78	Average penalty: 595.65
+SAP Count: 5	SAR Count: 19	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 78	Average penalty: 585.7
+SAP Count: 6	SAR Count: 19	SAPR Count: 0
+Iteration 25 took 51.0 seconds. Best P Value: 78	Average penalty: 524.375
+SAP Count: 6	SAR Count: 20	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 78	Average penalty: 547.625
+SAP Count: 7	SAR Count: 20	SAPR Count: 0
+Iteration 27 took 51.0 seconds. Best P Value: 78	Average penalty: 567.075
+SAP Count: 8	SAR Count: 20	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 78	Average penalty: 571.625
+SAP Count: 8	SAR Count: 21	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 78	Average penalty: 531.6
+SAP Count: 9	SAR Count: 21	SAPR Count: 0
+Iteration 30 took 51.0 seconds. Best P Value: 78	Average penalty: 501.95
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.20951834		342	1.98
+1	1	0.12074641		753	1.47
+2	1	0.035936203		399	1.84
+3	1	0.19814992		420	1.81
+4	1	2000.0		78	2.36
+5	1	0.29615948		342	1.98
+6	1	0.3961467		91	2.21
+7	1	0.21258055		497	1.69
+8	1	0.14626475		506	1.63
+9	1	0.039177034		86	2.22
+10	1	0.6537735		1326	1.33
+11	1	0.30017224		550	1.56
+12	1	0.23388198		752	1.5
+13	1	0.118379585		82	2.25
+14	1	0.15745455		374	1.86
+15	1	0.5689378		773	1.37
+16	1	0.04074641		399	1.84
+17	1	2000.0		1332	1.11
+18	2	0.41433665		959	1.43
+19	2	2000.0		1062	1.37
+20	2	0.15158708		83	2.27
+21	2	0.19954376		421	1.81
+22	2	0.06976171		498	1.69
+23	2	0.19954376		498	1.69
+24	2	0.6617035		93	2.21
+25	2	0.079862714		507	1.63
+26	2	0.10740159		507	1.63
+27	2	2000.0		79	2.36
+28	2	0.070779		89	2.22
+29	2	0.09017952		421	1.81
+30	2	0.73771286		382	1.86
+31	2	0.41288778		553	1.56
+32	2	0.5443345		754	1.47
+33	3	2000.0		80	2.36
+34	3	1000.1093		1068	1.37
+35	3	1000.0606		1068	1.37
+36	3	0.84913915		94	2.21
+37	3	0.683454		400	1.84
+38	3	0.980943		400	1.84
+39	3	1.1508608		960	1.43
+Best Penalty Value: 78
+Best Robustness Value: 1.11
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 58
+MinimumWorkingDaysConstraint violation: 15
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 5
+Best Individual So Far penalty: 78
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 354
+MinimumWorkingDaysConstraint violation: 80
+RoomCapacityConstraint violation: 827
+RoomStabilityConstraint violation: 71
+Best Individual So Far robustness: 1332
+Total running time is 527 seconds
+Run: 30 and Seed of the Random Object: -1554580957
+Initialization took 48 seconds
+Initial population avg eventP: 3.175088339222615
+Initial bestP: 388
+SAP Count: 0	SAR Count: 1	SAPR Count: 0
+Iteration 1 took 0.0 seconds. Best P Value: 388	Average penalty: 833.2
+SAP Count: 1	SAR Count: 1	SAPR Count: 0
+Iteration 2 took 50.0 seconds. Best P Value: 75	Average penalty: 982.8
+SAP Count: 2	SAR Count: 1	SAPR Count: 0
+Iteration 3 took 50.0 seconds. Best P Value: 75	Average penalty: 930.925
+SAP Count: 3	SAR Count: 1	SAPR Count: 0
+Iteration 4 took 50.0 seconds. Best P Value: 75	Average penalty: 793.525
+SAP Count: 4	SAR Count: 1	SAPR Count: 0
+Iteration 5 took 50.0 seconds. Best P Value: 75	Average penalty: 698.325
+SAP Count: 4	SAR Count: 2	SAPR Count: 0
+Iteration 6 took 0.0 seconds. Best P Value: 75	Average penalty: 698.9
+SAP Count: 4	SAR Count: 3	SAPR Count: 0
+Iteration 7 took 0.0 seconds. Best P Value: 75	Average penalty: 739.125
+SAP Count: 5	SAR Count: 3	SAPR Count: 0
+Iteration 8 took 50.0 seconds. Best P Value: 73	Average penalty: 703.75
+SAP Count: 6	SAR Count: 3	SAPR Count: 0
+Iteration 9 took 50.0 seconds. Best P Value: 73	Average penalty: 655.275
+SAP Count: 7	SAR Count: 3	SAPR Count: 0
+Iteration 10 took 51.0 seconds. Best P Value: 73	Average penalty: 738.8
+SAP Count: 8	SAR Count: 3	SAPR Count: 0
+Iteration 11 took 50.0 seconds. Best P Value: 73	Average penalty: 695.35
+SAP Count: 9	SAR Count: 3	SAPR Count: 0
+Iteration 12 took 51.0 seconds. Best P Value: 73	Average penalty: 765.475
+SAP Count: 9	SAR Count: 4	SAPR Count: 0
+Iteration 13 took 0.0 seconds. Best P Value: 73	Average penalty: 769.225
+SAP Count: 9	SAR Count: 5	SAPR Count: 0
+Iteration 14 took 0.0 seconds. Best P Value: 73	Average penalty: 804.0
+SAP Count: 10	SAR Count: 5	SAPR Count: 0
+Iteration 15 took 51.0 seconds. Best P Value: 65	Average penalty: 750.65
+SAP Count: 11	SAR Count: 5	SAPR Count: 0
+Iteration 16 took 50.0 seconds. Best P Value: 65	Average penalty: 756.275
+SAP Count: 12	SAR Count: 5	SAPR Count: 0
+Iteration 17 took 50.0 seconds. Best P Value: 65	Average penalty: 711.425
+SAP Count: 13	SAR Count: 5	SAPR Count: 0
+Iteration 18 took 51.0 seconds. Best P Value: 65	Average penalty: 690.425
+SAP Count: 14	SAR Count: 5	SAPR Count: 0
+Iteration 19 took 50.0 seconds. Best P Value: 65	Average penalty: 691.05
+SAP Count: 14	SAR Count: 6	SAPR Count: 0
+Iteration 20 took 0.0 seconds. Best P Value: 65	Average penalty: 724.625
+SAP Count: 14	SAR Count: 7	SAPR Count: 0
+Iteration 21 took 0.0 seconds. Best P Value: 65	Average penalty: 773.55
+SAP Count: 15	SAR Count: 7	SAPR Count: 0
+Iteration 22 took 50.0 seconds. Best P Value: 65	Average penalty: 651.35
+SAP Count: 16	SAR Count: 7	SAPR Count: 0
+Iteration 23 took 50.0 seconds. Best P Value: 65	Average penalty: 681.5
+SAP Count: 17	SAR Count: 7	SAPR Count: 0
+Iteration 24 took 50.0 seconds. Best P Value: 65	Average penalty: 663.1
+SAP Count: 18	SAR Count: 7	SAPR Count: 0
+Iteration 25 took 50.0 seconds. Best P Value: 65	Average penalty: 673.425
+SAP Count: 18	SAR Count: 8	SAPR Count: 0
+Iteration 26 took 0.0 seconds. Best P Value: 65	Average penalty: 670.25
+SAP Count: 18	SAR Count: 9	SAPR Count: 0
+Iteration 27 took 0.0 seconds. Best P Value: 65	Average penalty: 678.1
+SAP Count: 19	SAR Count: 9	SAPR Count: 0
+Iteration 28 took 50.0 seconds. Best P Value: 65	Average penalty: 684.65
+SAP Count: 19	SAR Count: 10	SAPR Count: 0
+Iteration 29 took 0.0 seconds. Best P Value: 65	Average penalty: 718.525
+SAP Count: 19	SAR Count: 11	SAPR Count: 0
+Iteration 30 took 0.0 seconds. Best P Value: 65	Average penalty: 740.225
+
+********************************************
+Index	Rank	CrowdDist		Penalty	Robustness
+0	1	0.66034156		388	1.94
+1	1	0.49504542		422	1.75
+2	1	0.105571		73	2.26
+3	1	0.4707423		98	2.22
+4	1	2000.0		65	2.32
+5	1	0.23601137		904	1.58
+6	1	0.23713742		947	1.57
+7	1	0.025937509		97	2.23
+8	1	0.49463362		1472	1.33
+9	1	0.49236223		674	1.62
+10	1	0.028472705		97	2.23
+11	1	2000.0		1504	1.24
+12	1	0.5870589		1112	1.48
+13	2	0.25349754		1114	1.49
+14	2	0.37526		1214	1.48
+15	2	0.3994417		1474	1.33
+16	2	0.59646416		389	1.94
+17	2	0.2293377		907	1.58
+18	2	2000.0		67	2.5
+19	2	0.45120963		423	1.75
+20	2	0.21418719		950	1.57
+21	2	0.2769677		675	1.62
+22	2	0.19174603		675	1.62
+23	2	2000.0		1517	1.24
+24	2	0.47120965		99	2.22
+25	2	0.24429119		74	2.26
+26	3	0.28452972		1115	1.49
+27	3	0.5945325		914	1.58
+28	3	0.441784		1215	1.48
+29	3	0.23822841		424	1.75
+30	3	0.54763424		424	1.75
+31	3	0.24741182		963	1.57
+32	3	0.76316994		390	1.94
+33	3	2000.0		101	2.22
+34	3	1000.1892		1475	1.33
+35	3	1000.1685		1475	1.33
+36	4	2000.0		1116	1.49
+37	4	1.0558482		916	1.58
+38	4	2000.0		678	1.62
+39	4	1.1489286		972	1.57
+Best Penalty Value: 65
+Best Robustness Value: 1.24
+
+********************************************
+Constraint violations of the best P individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 34
+MinimumWorkingDaysConstraint violation: 25
+RoomCapacityConstraint violation: 0
+RoomStabilityConstraint violation: 6
+Best Individual So Far penalty: 65
+
+********************************************
+Constraint violations of the best R individual:
+ClashConstraint violation: 0
+RoomUniquenessConstraint violation: 0
+InstructorTimeAvailabilityConstraint violation: 0
+CompletenessConstraint violation: 0
+CurriculumCompactnessConstraint violation: 408
+MinimumWorkingDaysConstraint violation: 65
+RoomCapacityConstraint violation: 955
+RoomStabilityConstraint violation: 76
+Best Individual So Far robustness: 1504
+Total running time is 1048 seconds
+30 Runs have been completed

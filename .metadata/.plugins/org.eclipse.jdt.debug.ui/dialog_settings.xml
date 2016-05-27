@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=ITTC2Simplified/openjdk-7-fcs-src-b147-27_jun_2011.zip&amp;lt;openjdk.jdk.test.java.lang.Class.forName.classes(Z.class[Z&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=SASimplified/\/SASimplified\/JExcelApi\/jxl.jar&amp;lt;jxl.demo(Demo.class[Demo&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=SASimplified/src&amp;lt;starter{Starter.java[Starter&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HVITwoObj/src&amp;lt;{Test.java[Test&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=PerformanceAssessment/src&amp;lt;{Test.java[Test&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=ITTC2Simplified/src&amp;lt;starter{Starter.java[Starter&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="510" key="DIALOG_WIDTH"/>
+			<item value="171" key="DIALOG_Y_ORIGIN"/>
+			<item value="665" key="DIALOG_X_ORIGIN"/>
+			<item value="869" key="DIALOG_HEIGHT"/>
+			<item value="1|Ubuntu|12.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="502" key="SashWeightDetails"/>
+		<item value="497" key="SashWeightTree"/>
+		<item value="234" key="HEIGHT"/>
+		<item value="706" key="WIDTH"/>
+	</section>
+	<section name="conditionHistory">
+	</section>
+</section>
