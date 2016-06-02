@@ -51,7 +51,7 @@ public class Test {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		
-		for (int instance= 1; instance<=1; instance++){
+		for (int instance= 2; instance<=2; instance++){
 			System.out.println("Instance no: "+instance);
 			instNo= String.valueOf(instance);
 //			fileHeader= "../Runs22April/Instance"+ instNo;
@@ -143,6 +143,7 @@ public class Test {
 			printStatisticsFinal( globalMaxP, globalMaxR, outFinal );
 			// now writing final front statistics are finished.
 
+			// NOW, EVALUATE FRONTS:
 			
 			ArrayList<double[]> tempFinal; ArrayList<double[]> tempInit;
 			ArrayList<double[]> optimal= new ArrayList<double[]>();
@@ -161,17 +162,18 @@ public class Test {
 			// Compute Epsilon Distances:
 			double[] opt= {globalMinP, globalMinR}; // minimum
 			optimal.add(opt);
+
 			outFinal.write("Epsilon Distance Values (A,B):"+ System.getProperty( "line.separator"));	
-			outFinal.write("Run\t"+ "Iepsilon(finalAgg,finalRun):\t"+"Iepsilon(finalRun,finalAgg):\t"+ "Iepsilon(optimal,finalRun):\t"+ "Iepsilon(finalRun,optimal):\t"+  "Iepsilon(finalRun,initRun):\t"+ "Iepsilon(initRun,finalRun):\t"+ System.getProperty( "line.separator"));	
+			outFinal.write("Run\t"+ "Iepsilon(finalRun,initRun):\t"+ "Iepsilon(initRun,finalRun):\t"+ System.getProperty( "line.separator"));	
 			for (int r=0; r< runs; r++){
 				tempInit= runInitRank1Solutions.get(r);
 				tempFinal= runFinalRank1Solutions.get(r);
-				outFinal.write(r+"\t"+ eIndicator.compute(finalAggregateFront,tempFinal)+"\t"+ eIndicator.compute(tempFinal,finalAggregateFront)
-					+"\t"+eIndicator.compute(optimal,tempFinal)+"\t"+ eIndicator.compute(tempFinal,optimal)
-					+"\t"+eIndicator.compute(tempFinal,tempInit) +"\t"+eIndicator.compute(tempInit,tempFinal)+ System.getProperty( "line.separator"));	
+				outFinal.write(r+"\t"+ eIndicator.compute(tempFinal,tempInit) +"\t"+eIndicator.compute(tempInit,tempFinal)+ System.getProperty( "line.separator"));	
 			} // end r for
 			
-			// Compute Euclidean Distances && Generational Distances:
+			
+			// Compute Euclidean Distances && Generational Distances:			
+			System.out.println("Euclidean Distances:");
 			outFinal.write("Euclidean Distance Values"+ System.getProperty( "line.separator"));	
 			outFinal.write("Run\t"+"InitMinDistance\t"+ "InitAvgDistance\t"+ "InitDistanceStDev\t"+ "InitGD\t"+
 					"FinalMinDistance\t"+ "FinalAvgDistance\t"+ "FinalDistanceStDev\t"+ "FinalGD\t"+ System.getProperty( "line.separator"));
@@ -179,10 +181,9 @@ public class Test {
 				tempInit= runInitRank1Solutions.get(r);
 				tempFinal= runFinalRank1Solutions.get(r);
 				eucEvaluator.compute(aggregateFront, tempInit, tempFinal, globalMinP, globalMinR, globalMaxP, globalMaxR);	
-				outFinal.write(r+"\t"+ eucEvaluator.getInitialMinDistance()+"\t"+ eucEvaluator.getInitialAvgDistance()+"\t"+ 
-						eucEvaluator.getInitialDistanceStDev()+"\t"+ eucEvaluator.getInitGD()+"\t"+
+				outFinal.write(r+"\t"+ eucEvaluator.getInitialMinDistance()+"\t"+ eucEvaluator.getInitialAvgDistance()+"\t"+ eucEvaluator.getInitGD()+"\t"+
 						eucEvaluator.getFinalMinDistance()+"\t"+ eucEvaluator.getFinalAvgDistance()+"\t"+
-						eucEvaluator.getFinalDistanceStDev()+"\t"+eucEvaluator.getFinalGD() + System.getProperty( "line.separator"));	
+						+eucEvaluator.getFinalGD() + System.getProperty( "line.separator"));	
 			} // end r for
 			
 			// Spacing Values are being computed:

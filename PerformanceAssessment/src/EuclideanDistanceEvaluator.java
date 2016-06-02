@@ -26,6 +26,12 @@ public class EuclideanDistanceEvaluator {
 			initialPointsDistances.add(minDistance);
 		} // end i for
 		
+		
+//		System.out.println("Initial Euclidean distances ");
+		for (double d: initialPointsDistances)
+			System.out.print(d+"\t");
+		System.out.println();
+		
 		// compute each solution's distance in fin from each solution in agg, and then take the minimum
 		finalPointsDistances= new ArrayList<Double>();
 		for (int i=0; i< fin.size(); i++){
@@ -38,6 +44,11 @@ public class EuclideanDistanceEvaluator {
 			} // end i for
 			finalPointsDistances.add(minDistance);
 		} // end i for
+		
+//		System.out.println("Final Euclidean distances ");
+		for (double d: finalPointsDistances)
+			System.out.print(d+"\t");
+		System.out.println();
 		
 	}
 
@@ -91,7 +102,7 @@ public class EuclideanDistanceEvaluator {
 		for (double d: finalPointsDistances)
 			sumDiff+= Math.pow(d-mean, 2);
 		
-		return Math.sqrt( sumDiff / (initialPointsDistances.size()-1));
+		return Math.sqrt( sumDiff / (finalPointsDistances.size()-1));
 	}
 
 	public double getFinalMinDistance() {
@@ -131,7 +142,6 @@ public class EuclideanDistanceEvaluator {
 			total+= (d*d);
 		return ( Math.sqrt(total) / finalPointsDistances.size());
 	}
-
 	
 	
 }
